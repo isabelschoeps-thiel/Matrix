@@ -1,0 +1,1605 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Aspen 2.0.dev0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/_static/css/theme.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html#document-index" class="icon icon-home"> Aspen
+          
+
+          
+          </a>
+
+          
+            
+            
+            
+              <div class="version">
+                latest
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+            
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-dispatch">Filesystem Dispatch Rules</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#dynamic-resources">Dynamic Resources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#path-variables">Path Variables</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#ready-for-simplates">Ready for Simplates?</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-simplates">How to Write a Simplate</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#sections-of-a-simplate">Sections of a Simplate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#context">Context</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#standard-renderers">Standard Renderers</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#specline-defaults">Specline Defaults</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#content-negotiation">Content Negotiation</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-plugins">How to Write a Plugin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-wrappers">How to Write a Framework Wrapper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-reference/index">API Reference</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/http"><code class="docutils literal notranslate"><span class="pre">aspen.http</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/request_processor"><code class="docutils literal notranslate"><span class="pre">aspen.request_processor</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/dispatcher"><code class="docutils literal notranslate"><span class="pre">aspen.request_processor.dispatcher</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/typecasting"><code class="docutils literal notranslate"><span class="pre">aspen.request_processor.typecasting</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/simplates"><code class="docutils literal notranslate"><span class="pre">aspen.simplates</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/output"><code class="docutils literal notranslate"><span class="pre">aspen.output</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/testing"><code class="docutils literal notranslate"><span class="pre">aspen.testing</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-reference/exceptions"><code class="docutils literal notranslate"><span class="pre">aspen.exceptions</span></code></a></li>
+</ul>
+</li>
+</ul>
+</div>
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html#document-index">Aspen</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html#document-index">Docs</a> &raquo;</li>
+        
+      <li>Aspen 2.0.dev0 documentation</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            
+              <a href="https://github.com/AspenWeb/aspen.py/blob/master/docs/index.rst" class="fa fa-github"> Edit on GitHub</a>
+            
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="aspen">
+<h1>Aspen<a class="headerlink" href="#aspen" title="Permalink to this headline">¶</a></h1>
+<p>Aspen is a filesystem dispatch library for Python web frameworks. Instead of
+using regular expressions, decorators, or object traversal, Aspen dispatches
+HTTP requests based on the natural symmetry of URL paths and filesystem paths.
+In the <a class="reference external" href="https://twitter.com/progrium/status/773694289033383937">immortal words</a> of Jeff Lindsay, “so like. a web server.” Yes! ;-)</p>
+<p>This is the documentation for the development version of the core Aspen
+library, describing its filesystem dispatch behavior regardless of the web
+framework you’re using it with. For instructions on configuring Aspen with a
+specific web framework, see the docs for <a class="reference external" href="http://django.aspen.io/">django-aspen</a>, <a class="reference external" href="http://flask.aspen.io/">Flask-Aspen</a>, or
+<a class="reference external" href="http://pando.aspen.io/">Pando</a>. See the <a class="reference external" href="http://aspen.io/">project homepage</a> for an overview.</p>
+<p>This version of Aspen has been tested with Python 3.6, 3.7, 3.8 and 3.9, on both
+Ubuntu and Windows.</p>
+<p>Aspen’s source code is on <a class="reference external" href="https://github.com/AspenWeb/aspen.py">GitHub</a>, and is <a class="reference external" href="https://github.com/AspenWeb/aspen.py/blob/master/COPYRIGHT">MIT-licensed</a>.</p>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Aspen is available on <a class="reference external" href="https://pypi.python.org/pypi/aspen">PyPI</a>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ pip install aspen
+</pre></div>
+</div>
+</div>
+<div class="section" id="contents">
+<h2>Contents<a class="headerlink" href="#contents" title="Permalink to this headline">¶</a></h2>
+<div class="toctree-wrapper compound">
+<span id="document-dispatch"></span><div class="section" id="filesystem-dispatch-rules">
+<h3>Filesystem Dispatch Rules<a class="headerlink" href="#filesystem-dispatch-rules" title="Permalink to this headline">¶</a></h3>
+<p>Aspen dispatches web requests to the filesystem based on paths. For simple
+cases this is straightforward: <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code> in the browser will find
+<code class="docutils literal notranslate"><span class="pre">foo.html</span></code> in the publishing root on your filesystem, and serve the file
+statically. There are a couple wrinkles, however. What about <em>dynamic</em>
+resources?  And what about variable path parts?</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">This is a tutorial. Please refer to our test table for the <a class="reference external" href="https://raw.githubusercontent.com/AspenWeb/aspen.py/master/tests/dispatch_table_data.rst">complete dispatch rules</a>.</p>
+</div>
+<div class="section" id="dynamic-resources">
+<h4>Dynamic Resources<a class="headerlink" href="#dynamic-resources" title="Permalink to this headline">¶</a></h4>
+<p>Sometimes you want the URL path <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code> to find a static HTML file. More
+frequently, you want it to serve a dynamic resource. Aspen uses the
+<a class="reference external" href="simplates.html">simplates</a> file format to model dynamic resources, and Aspen knows a file is
+a simplate because of a <code class="docutils literal notranslate"><span class="pre">.spt</span></code> extension: <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code> will find
+<code class="docutils literal notranslate"><span class="pre">foo.html.spt</span></code> if it exists. If you ask for <code class="docutils literal notranslate"><span class="pre">/foo.html.spt</span></code> directly,
+however, you’ll get a 404.</p>
+<p>But what happens if you have both of the following on your filesystem?</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">foo.html</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">foo.html.spt</span></code></li>
+</ul>
+</div></blockquote>
+<p>When you ask for <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code>, which one will you get? Which file will Aspen
+use to represent the resource? The answer is <code class="docutils literal notranslate"><span class="pre">foo.html</span></code>. The principle is
+“most specific wins”. The dynamic resource could actually serve other content
+types (despite the <code class="docutils literal notranslate"><span class="pre">.html</span></code> in the filename), whereas the static resource will
+<em>only</em> result in an HTML representation.</p>
+<p>Now how about this one: what happens if you ask for <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code> with <em>these</em>
+two on your filesystem?</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">foo.html.spt</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">foo.spt</span></code></li>
+</ul>
+</div></blockquote>
+<p>You guessed it: <code class="docutils literal notranslate"><span class="pre">foo.html.spt</span></code>. Even though both are dynamic resources, and
+both could technically result in any content type representation, the former is
+likely to result in just HTML. Aspen therefore considers it to be more
+specific, and to match it before the more general <code class="docutils literal notranslate"><span class="pre">foo.spt</span></code>.</p>
+<p>Now let’s say you only have:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">foo.spt</span></code></li>
+</ul>
+</div></blockquote>
+<p>That simplate will answer for <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code>. But! It will  <em>also</em> answer for
+<code class="docutils literal notranslate"><span class="pre">/foo.json</span></code>, <code class="docutils literal notranslate"><span class="pre">/foo.csv</span></code>, <code class="docutils literal notranslate"><span class="pre">/foo.xml</span></code>, etc. One simplate can serve multiple
+content type representations of the same resource. The <a class="reference external" href="simplates.html">simplate docs</a> explain
+how, but before we get there, let’s talk about path variables.</p>
+</div>
+<div class="section" id="path-variables">
+<h4>Path Variables<a class="headerlink" href="#path-variables" title="Permalink to this headline">¶</a></h4>
+<p>It’s common in web applications to use parts of the URL path to pass variables
+to a dynamic resource. For example, the <code class="docutils literal notranslate"><span class="pre">2016</span></code> in
+<code class="docutils literal notranslate"><span class="pre">/blog/2016/some-post.html</span></code> will want to end up as a <code class="docutils literal notranslate"><span class="pre">year</span></code> variable in
+your code, and <code class="docutils literal notranslate"><span class="pre">some-post</span></code> perhaps as <code class="docutils literal notranslate"><span class="pre">slug</span></code>. Since Aspen uses the
+filesystem for dispatch, you define these variables on the filesystem. You use
+the <code class="docutils literal notranslate"><span class="pre">%</span></code> (percent) character for this.</p>
+<p>For the blog URL example, we might have the following simplate on our
+filesystem:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">blog/%year/%slug.html.spt</span></code></li>
+</ul>
+</div></blockquote>
+<p>Aspen matches from <code class="docutils literal notranslate"><span class="pre">%</span></code> to the end of the path part or a file extension,
+whichever comes first. Now, inside your simplate, you will have access to
+<code class="docutils literal notranslate"><span class="pre">year</span></code> and <code class="docutils literal notranslate"><span class="pre">slug</span></code> variables containing the values from the URL path.</p>
+<div class="section" id="typecasting">
+<h5>Typecasting<a class="headerlink" href="#typecasting" title="Permalink to this headline">¶</a></h5>
+<p>URL path parts are strings, but sometimes you want to convert to a different
+data type. Aspen provides for this by looking for special file extensions
+following the <code class="docutils literal notranslate"><span class="pre">%</span></code> variable: <code class="docutils literal notranslate"><span class="pre">.int</span></code> and <code class="docutils literal notranslate"><span class="pre">.float</span></code> are supported by default.</p>
+<p>If our simplate for the blog example was at:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">blog/%year.int/%slug.html.spt</span></code></li>
+</ul>
+</div></blockquote>
+<p>Then the <code class="docutils literal notranslate"><span class="pre">year</span></code> variable inside our simplate would be an integer instead of a
+string.</p>
+</div>
+</div>
+<div class="section" id="ready-for-simplates">
+<h4>Ready for Simplates?<a class="headerlink" href="#ready-for-simplates" title="Permalink to this headline">¶</a></h4>
+<p>Aspen serves static files directly, and dynamic files using simplates
+(<code class="docutils literal notranslate"><span class="pre">.spt</span></code>), with path variables based on special <code class="docutils literal notranslate"><span class="pre">%</span></code> names on the filesystem.
+With those basics in place, it’s clearly time to <a class="reference external" href="simplates.html">write a simplate</a>!</p>
+</div>
+</div>
+<span id="document-simplates"></span><div class="section" id="how-to-write-a-simplate">
+<h3>How to Write a Simplate<a class="headerlink" href="#how-to-write-a-simplate" title="Permalink to this headline">¶</a></h3>
+<p>Aspen dispatches web requests to files on the filesystem based on paths, but
+what kind of files does it expect to find there? The answer is simplates.
+Simplates are a file format combining request processing logic—like you’d
+find in a <a class="reference external" href="https://docs.djangoproject.com/en/1.10/topics/http/views/">Django view</a> or a <a class="reference external" href="http://guides.rubyonrails.org/action_controller_overview.html">Rails controller</a>—with template code, in one
+file with multiple sections.</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Check the Aspen homepage for links to <a class="reference external" href="http://aspen.io/">simplate support for your favorite
+text editor</a>.</p>
+</div>
+<div class="section" id="sections-of-a-simplate">
+<h4>Sections of a Simplate<a class="headerlink" href="#sections-of-a-simplate" title="Permalink to this headline">¶</a></h4>
+<p>What are the sections of a simplate? Let’s illustrate by example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>import random
+
+[----------------------------------]
+program = querystring[&#39;program&#39;]
+excitement = &#39;!&#39; * random.randint(1, 10)
+
+[----] text/html via stdlib_template
+&lt;h1&gt;Greetings, $program$excitement&lt;/h1&gt;
+
+[-----] text/plain via stdlib_format
+Greetings, {program}{excitement}
+
+[---] application/json via json_dump
+{&quot;program&quot;: program, &quot;excitement&quot;: excitement}
+</pre></div>
+</div>
+<p>The first thing to notice is that the file is separated into multiple sections
+using lines that begin with the characters <code class="docutils literal notranslate"><span class="pre">[---]</span></code>. There must be at least
+three dashes, but more are fine.</p>
+<p>Sections in a simplate are either “logic sections” or “content sections”.
+Content sections may have a “specline” after the <code class="docutils literal notranslate"><span class="pre">[---]</span></code> separator. The
+format of the specline is <code class="docutils literal notranslate"><span class="pre">content-type</span> <span class="pre">via</span> <span class="pre">renderer</span></code>. The syntax of the
+content sections depends on the renderer. The logic sections are Python.</p>
+<p>A simplate may have one or more sections. Here are the rules for determining
+which section is what:</p>
+<ol class="arabic simple">
+<li><strong>If a simplate only has one section</strong>, it’s a content section.</li>
+<li><strong>If a simplate has two sections</strong>, the first is <em>request</em> logic (runs for
+every request), and the second is a content section.</li>
+<li><strong>If a simplate has more than two sections</strong>:</li>
+</ol>
+<blockquote>
+<div><ol class="loweralpha simple">
+<li>If the second section has a specline, then the first is request logic, and
+the rest are content sections.</li>
+<li>If the second section has no specline, then the first is <em>initialization</em>
+logic (runs once when the page is first hit), the second is request
+logic, and the rest are content sections.</li>
+</ol>
+</div></blockquote>
+<p>Putting that all together, we see that the above example has five sections:</p>
+<ol class="arabic simple">
+<li>a logic section containing Python that will run once when the page is first hit,</li>
+<li>a request section containing Python that will run every time the page is hit,</li>
+<li>a section for rendering <code class="docutils literal notranslate"><span class="pre">text/html</span></code> via Python templates,</li>
+<li>a section for rendering <code class="docutils literal notranslate"><span class="pre">text/plain</span></code> via new-style Python string formatting, and</li>
+<li>a section for rendering <code class="docutils literal notranslate"><span class="pre">application/json</span></code> via Python’s <a class="reference external" href="https://docs.python.org/3/library/json.html#module-json" title="(in Python v3.9)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">json</span></code></a> library.</li>
+</ol>
+</div>
+<div class="section" id="context">
+<h4>Context<a class="headerlink" href="#context" title="Permalink to this headline">¶</a></h4>
+<p>The power of simplates is that objects you define in the logic sections are
+automatically available to the templates in your content sections. The above
+example illustrates this with the <code class="docutils literal notranslate"><span class="pre">program</span></code> and <code class="docutils literal notranslate"><span class="pre">excitement</span></code> variables.
+Moreover, Aspen makes various objects available to the logic sections of your
+simplates (besides the Python builtins).</p>
+<p>Here’s what you get:</p>
+<ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">path</span></code>—a representation of the URL path</li>
+<li><code class="docutils literal notranslate"><span class="pre">querystring</span></code>—a representation of the URL querystring</li>
+<li><code class="docutils literal notranslate"><span class="pre">request_processor</span></code>—a <a class="reference internal" href="index.html#aspen.request_processor.RequestProcessor" title="aspen.request_processor.RequestProcessor"><code class="xref py py-mod docutils literal notranslate"><span class="pre">RequestProcessor</span></code></a> instance</li>
+<li><code class="docutils literal notranslate"><span class="pre">resource</span></code>—a representation of the HTTP resource</li>
+<li><code class="docutils literal notranslate"><span class="pre">state</span></code>—the dictionary that contains the request state</li>
+</ul>
+<p>Framework wrappers will add their own objects, as well.</p>
+</div>
+<div class="section" id="standard-renderers">
+<h4>Standard Renderers<a class="headerlink" href="#standard-renderers" title="Permalink to this headline">¶</a></h4>
+<p>Aspen includes five renderers out of the box:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">json_dump</span></code>—takes Python syntax, runs it through <code class="docutils literal notranslate"><span class="pre">eval</span></code> and then
+<code class="docutils literal notranslate"><span class="pre">json.dumps</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">jsonp_dump</span></code>—takes Python syntax, runs it through <code class="docutils literal notranslate"><span class="pre">eval</span></code> and
+<code class="docutils literal notranslate"><span class="pre">json.dumps</span></code>, and then wraps it in a JSONP callback if one is specified in
+the querystring (as either <code class="docutils literal notranslate"><span class="pre">callback</span></code> or <code class="docutils literal notranslate"><span class="pre">jsonp</span></code>)</li>
+<li><code class="docutils literal notranslate"><span class="pre">stdlib_format</span></code>—takes a Python string, runs it through <a class="reference external" href="https://docs.python.org/3/library/string.html#format-string-syntax">format-style</a>
+string replacement</li>
+<li><code class="docutils literal notranslate"><span class="pre">stdlib_percent</span></code>—takes a Python string, runs it through <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting">percent-style</a>
+string replacement</li>
+<li><code class="docutils literal notranslate"><span class="pre">stdlib_template</span></code>—takes a Python string, runs it through
+<a class="reference external" href="https://docs.python.org/3/library/string.html#template-strings">template-style</a> string replacement</li>
+</ul>
+</div></blockquote>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Check the Aspen homepage for links to <a class="reference external" href="http://aspen.io/">plugins for other renderers</a>.</p>
+</div>
+</div>
+<div class="section" id="specline-defaults">
+<h4>Specline Defaults<a class="headerlink" href="#specline-defaults" title="Permalink to this headline">¶</a></h4>
+<p>Speclines are optional. The defaults … I guess we should point to the API
+reference for this. And the framework wrappers will have something to say about
+this, as well.</p>
+</div>
+<div class="section" id="content-negotiation">
+<h4>Content Negotiation<a class="headerlink" href="#content-negotiation" title="Permalink to this headline">¶</a></h4>
+<p>Aspen negotiates with clients to determine how to best represent a resource for
+a given request. Aspen models resources using simplates, and the content
+sections of the simplate determine the available representations. Here are the
+rules for negotiation:</p>
+<ol class="arabic simple">
+<li><strong>If the URL path includes a file extension</strong>, Aspen looks in the Python
+mimetypes registry for a content type associated with the extension. If the
+extension is not in the registry, Aspen responds with <code class="docutils literal notranslate"><span class="pre">404</span> <span class="pre">Not</span> <span class="pre">Found</span></code>. If
+the extension <em>is</em> in the registry, Aspen looks for a match against the
+corresponding type. If no content section provides the requested
+representation, Aspen again responds with <code class="docutils literal notranslate"><span class="pre">404</span> <span class="pre">Not</span> <span class="pre">Found</span></code>.</li>
+<li><strong>If the URL path does not include a file extension and there are multiple
+available types</strong>, Aspen turns to the <code class="docutils literal notranslate"><span class="pre">Accept</span></code> header. If the <code class="docutils literal notranslate"><span class="pre">Accept</span></code>
+header is missing or malformed, Aspen responds using the first available
+content section. If the <code class="docutils literal notranslate"><span class="pre">Accept</span></code> header is valid, Aspen looks for a match.
+If no content section provides an acceptable representation, Aspen responds
+with <code class="docutils literal notranslate"><span class="pre">406</span> <span class="pre">Not</span> <span class="pre">Acceptable</span></code>.</li>
+<li><strong>If the URL path includes a file extension but there is only one available
+type</strong>, then Aspen ignores the <code class="docutils literal notranslate"><span class="pre">Accept</span></code> header (as the spec <a class="reference external" href="https://tools.ietf.org/html/rfc7232#section-5.3.2">allows</a>),
+responding with the only available representation.</li>
+</ol>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Aspen delegates to the <a class="reference external" href="https://pypi.python.org/pypi/python-mimeparse">python-mimeparse</a> library to determine the best
+available match for a given media range.</p>
+</div>
+</div>
+</div>
+<span id="document-plugins"></span><div class="section" id="how-to-write-a-plugin">
+<h3>How to Write a Plugin<a class="headerlink" href="#how-to-write-a-plugin" title="Permalink to this headline">¶</a></h3>
+<p>This document is for people who want to write a plugin for Aspen. If you only
+want to use Aspen with existing plugins, then … what?</p>
+<p>Negotiated and rendered resources have content pages the bytes for which are
+transformed based on context. The user may explicitly choose a renderer per
+content page, with the default renderer per page computed from its media type.
+Template resources derive their media type from the file extension. Negotiated
+resources have no file extension by definition, so they specify the media type
+of their content pages in the resource itself, on the so-called “specline” of
+each content page, like so:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[---]
+[---] text/plain
+Greetings, program!
+[---] text/html
+&lt;h1&gt;Greetings, program!&lt;/h1&gt;
+</pre></div>
+</div>
+<p>A Renderer is instantiated by a Factory, which is a class that is itself
+instantied with one argument:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">configuration</span>   <span class="n">an</span> <span class="n">Aspen</span> <span class="n">configuration</span> <span class="nb">object</span>
+</pre></div>
+</div>
+<p>Instances of each Renderer subclass are callables that take five arguments and
+return a function (confused yet?). The five arguments are:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">factory</span>         <span class="n">the</span> <span class="n">Factory</span> <span class="n">creating</span> <span class="n">this</span> <span class="nb">object</span>
+<span class="n">filepath</span>        <span class="n">the</span> <span class="n">filesystem</span> <span class="n">path</span> <span class="n">of</span> <span class="n">the</span> <span class="n">resource</span> <span class="ow">in</span> <span class="n">question</span>
+<span class="n">raw</span>             <span class="n">the</span> <span class="n">bytestring</span> <span class="n">of</span> <span class="n">the</span> <span class="n">page</span> <span class="n">of</span> <span class="n">the</span> <span class="n">resource</span> <span class="ow">in</span> <span class="n">question</span>
+<span class="n">media_type</span>      <span class="n">the</span> <span class="n">media</span> <span class="nb">type</span> <span class="n">of</span> <span class="n">the</span> <span class="n">page</span>
+<span class="n">offset</span>          <span class="n">the</span> <span class="n">line</span> <span class="n">number</span> <span class="n">at</span> <span class="n">which</span> <span class="n">the</span> <span class="n">page</span> <span class="n">starts</span>
+</pre></div>
+</div>
+<p>Each Renderer instance is a callable that takes a context dictionary and
+returns a bytestring of rendered content. The heavy lifting is done in the
+render_content method.</p>
+<p>Here’s how to implement and register your own renderer:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">aspen.simplates.renderers</span> <span class="kn">import</span> <span class="n">Renderer</span><span class="p">,</span> <span class="n">Factory</span>
+
+<span class="k">class</span> <span class="nc">Cheese</span><span class="p">(</span><span class="n">Renderer</span><span class="p">):</span>
+    <span class="k">def</span> <span class="nf">render_content</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">context</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">raw</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s2">&quot;cheese&quot;</span><span class="p">,</span> <span class="s2">&quot;CHEESE!!!!!!&quot;</span><span class="p">)</span>
+
+<span class="k">class</span> <span class="nc">CheeseFactory</span><span class="p">(</span><span class="n">Factory</span><span class="p">):</span>
+    <span class="n">Renderer</span> <span class="o">=</span> <span class="n">Cheese</span>
+
+<span class="n">request_processor</span><span class="o">.</span><span class="n">renderer_factories</span><span class="p">[</span><span class="s1">&#39;excited-about-cheese&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">CheeseFactory</span><span class="p">(</span><span class="n">request_processor</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Put that in your startup script. Now you can use it in a negotiated or rendered
+resource:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[---] via excited-about-cheese
+I like cheese!
+</pre></div>
+</div>
+<p>Out will come:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>I like CHEESE!!!!!!!
+</pre></div>
+</div>
+<p>If you write a new renderer for inclusion in the base Aspen distribution,
+please work with Aspen’s existing reloading machinery, etc. as much as
+possible. Use the existing template shims as guidelines, and if Aspen’s
+machinery is inadequate for some reason let’s evolve the machinery so all
+renderers behave consistently for users. Thanks.</p>
+</div>
+<span id="document-wrappers"></span><div class="section" id="how-to-write-a-framework-wrapper">
+<h3>How to Write a Framework Wrapper<a class="headerlink" href="#how-to-write-a-framework-wrapper" title="Permalink to this headline">¶</a></h3>
+<p>This document is for people who want to write a framework wrapper for Aspen. If
+you only want to use Aspen with an existing framework wrapper, then the
+<a class="reference external" href="dispatch.html">Dispatch</a> and <a class="reference external" href="simplates.html">Simplates</a> documents should
+cover what you need.</p>
+</div>
+<span id="document-reference/index"></span><div class="section" id="api-reference">
+<h3>API Reference<a class="headerlink" href="#api-reference" title="Permalink to this headline">¶</a></h3>
+<p>The primary class that the <code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen</span></code> library provides is
+<a class="reference internal" href="index.html#aspen.request_processor.RequestProcessor" title="aspen.request_processor.RequestProcessor"><code class="xref py py-class docutils literal notranslate"><span class="pre">RequestProcessor</span></code></a>. See
+<a class="reference internal" href="index.html#module-aspen.testing" title="aspen.testing"><code class="xref py py-mod docutils literal notranslate"><span class="pre">testing</span></code></a> for helpers to integrate Aspen into your framework’s
+testing infrastructure, and see the <a class="reference internal" href="index.html#module-aspen.exceptions" title="aspen.exceptions"><code class="xref py py-mod docutils literal notranslate"><span class="pre">exceptions</span></code></a> module for all
+exceptions that Aspen raises.</p>
+<div class="toctree-wrapper compound">
+<span id="document-reference/http"></span><div class="section" id="module-aspen.http.mapping">
+<span id="aspen-http"></span><h4><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.http</span></code><a class="headerlink" href="#module-aspen.http.mapping" title="Permalink to this headline">¶</a></h4>
+<dl class="class">
+<dt id="aspen.http.mapping.Mapping">
+<em class="property">class </em><code class="descclassname">aspen.http.mapping.</code><code class="descname">Mapping</code><a class="headerlink" href="#aspen.http.mapping.Mapping" title="Permalink to this definition">¶</a></dt>
+<dd><p>Base class for HTTP mappings.</p>
+<p>Mappings in HTTP differ from Python dictionaries in that they may have one
+or more values. This dictionary subclass maintains a list of values for
+each key. However, access semantics are asymmetric: subscript assignment
+clobbers to list, while subscript access returns the last item. Think
+about it.</p>
+<div class="admonition warning">
+<p class="first admonition-title">Warning</p>
+<p class="last">This isn’t thread-safe.</p>
+</div>
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.keyerror">
+<code class="descname">keyerror</code><span class="sig-paren">(</span><em>key</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.keyerror" title="Permalink to this definition">¶</a></dt>
+<dd><p>Called when a key is missing. Default implementation simply reraises.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.pop">
+<code class="descname">pop</code><span class="sig-paren">(</span><em>name</em>, <em>default=&lt;object object&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.pop" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a name, return a value.</p>
+<p>This removes the last value from the list for name and returns it. If
+there was only one value in the list then the key is removed from the
+mapping. If name is not present and default is given, that is returned
+instead. Otherwise, self.keyerror is called.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.popall">
+<code class="descname">popall</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.popall" title="Permalink to this definition">¶</a></dt>
+<dd><p>D.pop(k[,d]) -&gt; v, remove specified key and return the corresponding value.
+If key is not found, d is returned if given, otherwise KeyError is raised</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.all">
+<code class="descname">all</code><span class="sig-paren">(</span><em>name</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.all" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a name, return a list of values, possibly empty.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.get">
+<code class="descname">get</code><span class="sig-paren">(</span><em>name</em>, <em>default=None</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.get" title="Permalink to this definition">¶</a></dt>
+<dd><p>Override to only return the last value.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.add">
+<code class="descname">add</code><span class="sig-paren">(</span><em>name</em>, <em>value</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.add" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a name and value, clobber any existing values with the new one.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.http.mapping.Mapping.ones">
+<code class="descname">ones</code><span class="sig-paren">(</span><em>*names</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.mapping.Mapping.ones" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given one or more names of keys, return a list of their values.</p>
+</dd></dl>
+
+</dd></dl>
+
+<span class="target" id="module-aspen.http.request"></span><dl class="class">
+<dt id="aspen.http.request.PathPart">
+<em class="property">class </em><code class="descclassname">aspen.http.request.</code><code class="descname">PathPart</code><a class="headerlink" href="#aspen.http.request.PathPart" title="Permalink to this definition">¶</a></dt>
+<dd><p>Represents a segment of a URL path.</p>
+<dl class="attribute">
+<dt id="aspen.http.request.PathPart.params">
+<code class="descname">params</code><a class="headerlink" href="#aspen.http.request.PathPart.params" title="Permalink to this definition">¶</a></dt>
+<dd><p>extra data attached to this segment</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Type:</th><td class="field-body"><a class="reference internal" href="index.html#aspen.http.mapping.Mapping" title="aspen.http.mapping.Mapping">Mapping</a></td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.http.request.extract_rfc2396_params">
+<code class="descclassname">aspen.http.request.</code><code class="descname">extract_rfc2396_params</code><span class="sig-paren">(</span><em>path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.request.extract_rfc2396_params" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function implements parsing URL path parameters, per <a class="reference external" href="https://tools.ietf.org/html/rfc3986#section-3.3">section 3.3 of RFC2396</a>.</p>
+<ul class="simple">
+<li>path should be raw so we don’t split or operate on a decoded character</li>
+<li>output is decoded</li>
+</ul>
+<p>Example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/frisbee;color=red;size=small/logo;sponsor=w3c;color=black/image.jpg&#39;</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">extract_rfc2396_params</span><span class="p">(</span><span class="n">path</span><span class="p">)</span> <span class="o">==</span> <span class="p">[</span>
+<span class="gp">... </span>    <span class="n">PathPart</span><span class="p">(</span><span class="s1">&#39;frisbee&#39;</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;color&#39;</span><span class="p">:</span> <span class="p">[</span><span class="s1">&#39;red&#39;</span><span class="p">],</span> <span class="s1">&#39;size&#39;</span><span class="p">:</span> <span class="p">[</span><span class="s1">&#39;small&#39;</span><span class="p">]}),</span>
+<span class="gp">... </span>    <span class="n">PathPart</span><span class="p">(</span><span class="s1">&#39;logo&#39;</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;sponsor&#39;</span><span class="p">:</span> <span class="p">[</span><span class="s1">&#39;w3c&#39;</span><span class="p">],</span> <span class="s1">&#39;color&#39;</span><span class="p">:</span> <span class="p">[</span><span class="s1">&#39;black&#39;</span><span class="p">]}),</span>
+<span class="gp">... </span>    <span class="n">PathPart</span><span class="p">(</span><span class="s1">&#39;image.jpg&#39;</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="p">{})</span>
+<span class="gp">... </span><span class="p">]</span>
+<span class="go">True</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.http.request.split_path_no_params">
+<code class="descclassname">aspen.http.request.</code><code class="descname">split_path_no_params</code><span class="sig-paren">(</span><em>path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.request.split_path_no_params" title="Permalink to this definition">¶</a></dt>
+<dd><p>This splits a path into parts on “/” only (no split on “;” or “,”).</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.http.request.Path">
+<em class="property">class </em><code class="descclassname">aspen.http.request.</code><code class="descname">Path</code><span class="sig-paren">(</span><em>raw</em>, <em>split_path=&lt;function extract_rfc2396_params&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.request.Path" title="Permalink to this definition">¶</a></dt>
+<dd><p>Represent the path of a resource.</p>
+<dl class="attribute">
+<dt id="aspen.http.request.Path.raw">
+<code class="descname">raw</code><a class="headerlink" href="#aspen.http.request.Path.raw" title="Permalink to this definition">¶</a></dt>
+<dd><p>the unparsed form of the path - <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a></p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.http.request.Path.decoded">
+<code class="descname">decoded</code><a class="headerlink" href="#aspen.http.request.Path.decoded" title="Permalink to this definition">¶</a></dt>
+<dd><p>the decoded form of the path - <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a></p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.http.request.Path.parts">
+<code class="descname">parts</code><a class="headerlink" href="#aspen.http.request.Path.parts" title="Permalink to this definition">¶</a></dt>
+<dd><p>the segments of the path - <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#list" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">list</span></code></a> of <a class="reference internal" href="#aspen.http.request.PathPart" title="aspen.http.request.PathPart"><code class="xref py py-class docutils literal notranslate"><span class="pre">PathPart</span></code></a> objects</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.http.request.Querystring">
+<em class="property">class </em><code class="descclassname">aspen.http.request.</code><code class="descname">Querystring</code><span class="sig-paren">(</span><em>raw</em>, <em>errors='replace'</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.request.Querystring" title="Permalink to this definition">¶</a></dt>
+<dd><p>Represent an HTTP querystring.</p>
+<dl class="attribute">
+<dt id="aspen.http.request.Querystring.raw">
+<code class="descname">raw</code><a class="headerlink" href="#aspen.http.request.Querystring.raw" title="Permalink to this definition">¶</a></dt>
+<dd><p>the unparsed form of the querystring - <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a></p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.http.request.Querystring.decoded">
+<code class="descname">decoded</code><a class="headerlink" href="#aspen.http.request.Querystring.decoded" title="Permalink to this definition">¶</a></dt>
+<dd><p>the decoded form of the querystring - <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a></p>
+</dd></dl>
+
+</dd></dl>
+
+<span class="target" id="module-aspen.http.resource"></span><dl class="function">
+<dt id="aspen.http.resource.open_resource">
+<code class="descclassname">aspen.http.resource.</code><code class="descname">open_resource</code><span class="sig-paren">(</span><em>request_processor</em>, <em>resource_path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.resource.open_resource" title="Permalink to this definition">¶</a></dt>
+<dd><p>Open a resource in read-only binary mode, after checking for symlinks.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Raises:</th><td class="field-body"><a class="reference internal" href="index.html#aspen.exceptions.AttemptedBreakout" title="aspen.exceptions.AttemptedBreakout"><strong>AttemptedBreakout</strong></a> – if the <code class="xref py py-obj docutils literal notranslate"><span class="pre">resource_path</span></code> points to a file that isn’t inside any of
+the known
+<a class="reference internal" href="index.html#aspen.request_processor.DefaultConfiguration.resource_directories" title="aspen.request_processor.DefaultConfiguration.resource_directories"><code class="xref py py-attr docutils literal notranslate"><span class="pre">resource_directories</span></code></a></td>
+</tr>
+</tbody>
+</table>
+<p>This function doesn’t fully protect against attackers who have the ability
+to create and delete symlinks inside the resource directories whenever they
+want, but it makes the attack more difficult and detectable.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.http.resource.check_resource_path">
+<code class="descclassname">aspen.http.resource.</code><code class="descname">check_resource_path</code><span class="sig-paren">(</span><em>request_processor</em>, <em>resource_path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.resource.check_resource_path" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the “real” path of a file (i.e. a path without symlinks).</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Raises:</th><td class="field-body"><a class="reference internal" href="index.html#aspen.exceptions.AttemptedBreakout" title="aspen.exceptions.AttemptedBreakout"><strong>AttemptedBreakout</strong></a> – if the <code class="xref py py-obj docutils literal notranslate"><span class="pre">resource_path</span></code> points to a file that isn’t inside any of
+the known
+<a class="reference internal" href="index.html#aspen.request_processor.DefaultConfiguration.resource_directories" title="aspen.request_processor.DefaultConfiguration.resource_directories"><code class="xref py py-attr docutils literal notranslate"><span class="pre">resource_directories</span></code></a></td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.http.resource.Static">
+<em class="property">class </em><code class="descclassname">aspen.http.resource.</code><code class="descname">Static</code><span class="sig-paren">(</span><em>request_processor</em>, <em>fspath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.resource.Static" title="Permalink to this definition">¶</a></dt>
+<dd><p>Model a static HTTP resource.</p>
+<dl class="method">
+<dt id="aspen.http.resource.Static.render">
+<code class="descname">render</code><span class="sig-paren">(</span><em>*ignored</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.resource.Static.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the file’s content as <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#bytes" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code></a>.</p>
+<p>If the <code class="docutils literal notranslate"><span class="pre">store_static_files_in_ram</span></code> configuration option was set to
+<a class="reference external" href="https://docs.python.org/3/library/constants.html#False" title="(in Python v3.9)"><code class="xref py py-obj docutils literal notranslate"><span class="pre">False</span></code></a> (the default), then the file is read from the filesystem,
+otherwise its content is returned directly.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.http.resource.Dynamic">
+<em class="property">class </em><code class="descclassname">aspen.http.resource.</code><code class="descname">Dynamic</code><a class="headerlink" href="#aspen.http.resource.Dynamic" title="Permalink to this definition">¶</a></dt>
+<dd><p>Model a dynamic HTTP resource.</p>
+<dl class="method">
+<dt id="aspen.http.resource.Dynamic.render">
+<code class="descname">render</code><span class="sig-paren">(</span><em>context</em>, <em>dispatch_result</em>, <em>accept_header</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.http.resource.Dynamic.render" title="Permalink to this definition">¶</a></dt>
+<dd><p>Render the resource.</p>
+<p>Before rendering we need to determine what type of content we’re going
+to send back, by trying to find a match between the media types the
+client wants and the ones provided by the resource.</p>
+<p>The two sources for what the client wants are the extension in the
+request URL (<code class="xref py py-obj docutils literal notranslate"><span class="pre">dispatch_result.extension</span></code>), and the <code class="docutils literal notranslate"><span class="pre">Accept</span></code>
+header (<code class="xref py py-obj docutils literal notranslate"><span class="pre">accept_header</span></code>). If the former fails to match we raise
+<code class="xref py py-class docutils literal notranslate"><span class="pre">NotFound</span></code> (404), if the latter fails we raise
+<code class="xref py py-class docutils literal notranslate"><span class="pre">NegotiationFailure</span></code> (406).</p>
+<p>Note that we don’t always respect the <code class="docutils literal notranslate"><span class="pre">Accept</span></code> header (the spec says
+we can ignore it: &lt;<a class="reference external" href="https://tools.ietf.org/html/rfc7231#section-5.3.2">https://tools.ietf.org/html/rfc7231#section-5.3.2</a>&gt;).</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>context</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.9)"><em>dict</em></a>) – the variables you want to pass to the resource</li>
+<li><strong>dispatch_result</strong> (<a class="reference internal" href="index.html#aspen.request_processor.dispatcher.DispatchResult" title="aspen.request_processor.dispatcher.DispatchResult"><em>DispatchResult</em></a>) – the object returned by the dispatcher</li>
+<li><strong>accept_header</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the requested media types</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Returns: an <code class="xref py py-class docutils literal notranslate"><span class="pre">Output</span></code> object.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+<span id="document-reference/request_processor"></span><div class="section" id="module-aspen.request_processor">
+<span id="aspen-request-processor"></span><h4><a class="reference internal" href="#module-aspen.request_processor" title="aspen.request_processor"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.request_processor</span></code></a><a class="headerlink" href="#module-aspen.request_processor" title="Permalink to this headline">¶</a></h4>
+<p>The request processor dispatches requests to the filesystem, typecasts URL
+path variables, loads the resource from the filesystem, and then renders and
+encodes the resource (if it’s dynamic).</p>
+<dl class="class">
+<dt id="aspen.request_processor.RequestProcessor">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.</code><code class="descname">RequestProcessor</code><span class="sig-paren">(</span><em>**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor" title="Permalink to this definition">¶</a></dt>
+<dd><p>A core request processor designed for integration into a host framework.</p>
+<p>The <code class="docutils literal notranslate"><span class="pre">kwargs</span></code> are for configuration, see <a class="reference internal" href="#aspen.request_processor.DefaultConfiguration" title="aspen.request_processor.DefaultConfiguration"><code class="xref py py-class docutils literal notranslate"><span class="pre">DefaultConfiguration</span></code></a>
+for valid keys and default values.</p>
+<dl class="method">
+<dt id="aspen.request_processor.RequestProcessor.dispatch">
+<code class="descname">dispatch</code><span class="sig-paren">(</span><em>path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor.dispatch" title="Permalink to this definition">¶</a></dt>
+<dd><p>Call the dispatcher and inject the path variables into the given path object.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>path</strong> (<a class="reference internal" href="index.html#aspen.http.request.Path" title="aspen.http.request.Path"><em>Path</em></a>) – the requested path, e.g. <code class="xref py py-obj docutils literal notranslate"><span class="pre">'/foo'</span></code></td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">A <code class="xref py py-class docutils literal notranslate"><span class="pre">DispatchResult</span></code> object.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.RequestProcessor.process">
+<code class="descname">process</code><span class="sig-paren">(</span><em>path</em>, <em>querystring</em>, <em>accept_header</em>, <em>context</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor.process" title="Permalink to this definition">¶</a></dt>
+<dd><p>Process a request.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>path</strong> (<a class="reference internal" href="index.html#aspen.http.request.Path" title="aspen.http.request.Path"><em>Path</em></a>) – the requested path, e.g. <code class="xref py py-obj docutils literal notranslate"><span class="pre">Path('/foo')</span></code></li>
+<li><strong>querystring</strong> (<a class="reference internal" href="index.html#aspen.http.request.Querystring" title="aspen.http.request.Querystring"><em>Querystring</em></a>) – the query parameters, e.g. <code class="xref py py-obj docutils literal notranslate"><span class="pre">Querystring('?bar=baz')</span></code></li>
+<li><strong>accept_header</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the value of the HTTP header <code class="docutils literal notranslate"><span class="pre">Accept</span></code></li>
+<li><strong>context</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.9)"><em>dict</em></a>) – the context variables passed to dynamic resources</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">A 3-tuple <code class="docutils literal notranslate"><span class="pre">(dispatch_result,</span> <span class="pre">resource,</span> <span class="pre">output)</span></code>. The latter two are
+set to <a class="reference external" href="https://docs.python.org/3/library/constants.html#None" title="(in Python v3.9)"><code class="xref py py-obj docutils literal notranslate"><span class="pre">None</span></code></a> if dispatching failed.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.RequestProcessor.is_dynamic">
+<code class="descname">is_dynamic</code><span class="sig-paren">(</span><em>fspath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor.is_dynamic" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a filesystem path, return a boolean.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.RequestProcessor.get_resource_class">
+<code class="descname">get_resource_class</code><span class="sig-paren">(</span><em>fspath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor.get_resource_class" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a filesystem path, return a resource class.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.RequestProcessor.guess_media_type">
+<code class="descname">guess_media_type</code><span class="sig-paren">(</span><em>filename</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.RequestProcessor.guess_media_type" title="Permalink to this definition">¶</a></dt>
+<dd><p>Guess the media type of a file by looking at its extension.</p>
+<p>This method is a small wrapper around <a class="reference external" href="https://docs.python.org/3/library/mimetypes.html#mimetypes.guess_type" title="(in Python v3.9)"><code class="xref py py-func docutils literal notranslate"><span class="pre">mimetypes.guess_type()</span></code></a>. It
+returns <a class="reference internal" href="#aspen.request_processor.DefaultConfiguration.media_type_default" title="aspen.request_processor.DefaultConfiguration.media_type_default"><code class="xref py py-attr docutils literal notranslate"><span class="pre">media_type_default</span></code></a> if the guessing
+fails.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.DefaultConfiguration">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.</code><code class="descname">DefaultConfiguration</code><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration" title="Permalink to this definition">¶</a></dt>
+<dd><p>Default configuration values.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.changes_reload">
+<code class="descname">changes_reload</code><em class="property"> = False</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.changes_reload" title="Permalink to this definition">¶</a></dt>
+<dd><p>Reload files on every request if they’ve been modified. This can be costly,
+so it should be turned off in production.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.charset_static">
+<code class="descname">charset_static</code><em class="property"> = None</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.charset_static" title="Permalink to this definition">¶</a></dt>
+<dd><p>The charset of your static files. It ends up as a <code class="docutils literal notranslate"><span class="pre">charset=</span></code> parameter in
+<code class="docutils literal notranslate"><span class="pre">Content-Type</span></code> HTTP headers (if the framework on top of Aspen supports that).</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.dispatcher_class">
+<code class="descname">dispatcher_class</code><em class="property"> = None</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.dispatcher_class" title="Permalink to this definition">¶</a></dt>
+<dd><p>The kind of dispatcher that will be used to route requests to files. By
+default <code class="xref py py-class docutils literal notranslate"><span class="pre">UserlandDispatcher</span></code> is used, unless <code class="docutils literal notranslate"><span class="pre">changes_reload</span></code> is
+set to <code class="docutils literal notranslate"><span class="pre">True</span></code>, then <code class="xref py py-class docutils literal notranslate"><span class="pre">HybridDispatcher</span></code> is used.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.encode_output_as">
+<code class="descname">encode_output_as</code><em class="property"> = 'UTF-8'</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.encode_output_as" title="Permalink to this definition">¶</a></dt>
+<dd><p>The encoding to use for dynamically-generated output.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.indices">
+<code class="descname">indices</code><em class="property"> = ['index.html', 'index.json', 'index', 'index.html.spt', 'index.json.spt', 'index.spt']</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.indices" title="Permalink to this definition">¶</a></dt>
+<dd><p>List of file names that will be treated as directory indexes. The order matters.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.media_type_default">
+<code class="descname">media_type_default</code><em class="property"> = 'text/plain'</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.media_type_default" title="Permalink to this definition">¶</a></dt>
+<dd><p>If the <code class="docutils literal notranslate"><span class="pre">Content-Type</span></code> of a response can’t be determined, then this one is used.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.media_type_json">
+<code class="descname">media_type_json</code><em class="property"> = 'application/json'</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.media_type_json" title="Permalink to this definition">¶</a></dt>
+<dd><p>The media type to use for the JSON format.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.project_root">
+<code class="descname">project_root</code><em class="property"> = None</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.project_root" title="Permalink to this definition">¶</a></dt>
+<dd><p>The root directory of your project.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.renderer_default">
+<code class="descname">renderer_default</code><em class="property"> = 'stdlib_percent'</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.renderer_default" title="Permalink to this definition">¶</a></dt>
+<dd><p>The default renderer for simplates.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.resource_directories">
+<code class="descname">resource_directories</code><em class="property"> = []</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.resource_directories" title="Permalink to this definition">¶</a></dt>
+<dd><p>The list of directories containing resource files. Aspen will refuse to load
+any resource located outside these directories. The <cite>www_root</cite> directory is
+automatically added to this list. The <cite>project_root</cite> directory is added as
+well if it exists.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.store_static_files_in_ram">
+<code class="descname">store_static_files_in_ram</code><em class="property"> = False</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.store_static_files_in_ram" title="Permalink to this definition">¶</a></dt>
+<dd><p>If set to <code class="docutils literal notranslate"><span class="pre">True</span></code>, store the contents of static files in RAM.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.typecasters">
+<code class="descname">typecasters</code><em class="property"> = {'float': &lt;function &lt;lambda&gt;&gt;, 'int': &lt;function &lt;lambda&gt;&gt;}</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.typecasters" title="Permalink to this definition">¶</a></dt>
+<dd><p>See <a class="reference internal" href="index.html#module-aspen.request_processor.typecasting" title="aspen.request_processor.typecasting"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.request_processor.typecasting</span></code></a>.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.DefaultConfiguration.www_root">
+<code class="descname">www_root</code><em class="property"> = None</em><a class="headerlink" href="#aspen.request_processor.DefaultConfiguration.www_root" title="Permalink to this definition">¶</a></dt>
+<dd><p>The root directory of your web app, containing the files it will serve.
+Defaults to the current directory.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+<span id="document-reference/dispatcher"></span><div class="section" id="module-aspen.request_processor.dispatcher">
+<span id="aspen-request-processor-dispatcher"></span><h4><a class="reference internal" href="#module-aspen.request_processor.dispatcher" title="aspen.request_processor.dispatcher"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.request_processor.dispatcher</span></code></a><a class="headerlink" href="#module-aspen.request_processor.dispatcher" title="Permalink to this headline">¶</a></h4>
+<p>This module implements finding the file that matches a request path.</p>
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.strip_matching_ext">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">strip_matching_ext</code><span class="sig-paren">(</span><em>a</em>, <em>b</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.strip_matching_ext" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given two names, strip a trailing extension iff they both have them.</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.DispatchStatus">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">DispatchStatus</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchStatus" title="Permalink to this definition">¶</a></dt>
+<dd><p>The attributes of this class are constants that represent dispatch statuses.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchStatus.okay">
+<code class="descname">okay</code><em class="property"> = okay</em><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchStatus.okay" title="Permalink to this definition">¶</a></dt>
+<dd><p>Found a matching file.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchStatus.missing">
+<code class="descname">missing</code><em class="property"> = missing</em><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchStatus.missing" title="Permalink to this definition">¶</a></dt>
+<dd><p>No match found.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchStatus.unindexed">
+<code class="descname">unindexed</code><em class="property"> = unindexed</em><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchStatus.unindexed" title="Permalink to this definition">¶</a></dt>
+<dd><p>Found a matching node, but it’s a directory without an index.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.DispatchResult">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">DispatchResult</code><span class="sig-paren">(</span><em>status</em>, <em>match</em>, <em>wildcards</em>, <em>extension</em>, <em>canonical</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult" title="Permalink to this definition">¶</a></dt>
+<dd><p>The result of a dispatch operation.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchResult.status">
+<code class="descname">status</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult.status" title="Permalink to this definition">¶</a></dt>
+<dd><p>A <a class="reference internal" href="#aspen.request_processor.dispatcher.DispatchStatus" title="aspen.request_processor.dispatcher.DispatchStatus"><code class="xref py py-class docutils literal notranslate"><span class="pre">DispatchStatus</span></code></a> constant encoding the overall result.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchResult.match">
+<code class="descname">match</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult.match" title="Permalink to this definition">¶</a></dt>
+<dd><p>The matching filesystem path (if status != ‘missing’).</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchResult.wildcards">
+<code class="descname">wildcards</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult.wildcards" title="Permalink to this definition">¶</a></dt>
+<dd><p>A dict whose keys are wildcard names, and values are as supplied by the path.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchResult.extension">
+<code class="descname">extension</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult.extension" title="Permalink to this definition">¶</a></dt>
+<dd><p>A file extension, e.g. <code class="docutils literal notranslate"><span class="pre">json</span></code> when <code class="docutils literal notranslate"><span class="pre">foo.spt</span></code> is matched to <code class="docutils literal notranslate"><span class="pre">foo.json</span></code>.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DispatchResult.canonical">
+<code class="descname">canonical</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DispatchResult.canonical" title="Permalink to this definition">¶</a></dt>
+<dd><p>The canonical path of the resource, e.g. <code class="docutils literal notranslate"><span class="pre">/</span></code> for <code class="docutils literal notranslate"><span class="pre">/index.html</span></code>.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.FileNode">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">FileNode</code><span class="sig-paren">(</span><em>fspath</em>, <em>type</em>, <em>wildcard</em>, <em>extension</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.FileNode" title="Permalink to this definition">¶</a></dt>
+<dd><p>Represents a file in a dispatch tree.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.FileNode.fspath">
+<code class="descname">fspath</code><a class="headerlink" href="#aspen.request_processor.dispatcher.FileNode.fspath" title="Permalink to this definition">¶</a></dt>
+<dd><p>The absolute filesystem path of this node.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.FileNode.type">
+<code class="descname">type</code><a class="headerlink" href="#aspen.request_processor.dispatcher.FileNode.type" title="Permalink to this definition">¶</a></dt>
+<dd><p>‘dynamic’ or ‘static’.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Type:</th><td class="field-body">The node’s type</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.FileNode.wildcard">
+<code class="descname">wildcard</code><a class="headerlink" href="#aspen.request_processor.dispatcher.FileNode.wildcard" title="Permalink to this definition">¶</a></dt>
+<dd><p>The name of the path variable if the node is a wildcard.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.FileNode.extension">
+<code class="descname">extension</code><a class="headerlink" href="#aspen.request_processor.dispatcher.FileNode.extension" title="Permalink to this definition">¶</a></dt>
+<dd><p>The sub-extension of a dynamic file, e.g. <code class="docutils literal notranslate"><span class="pre">json</span></code> for <code class="docutils literal notranslate"><span class="pre">foo.json.spt</span></code>.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.DirectoryNode">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">DirectoryNode</code><span class="sig-paren">(</span><em>fspath</em>, <em>wildcard</em>, <em>children</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.DirectoryNode" title="Permalink to this definition">¶</a></dt>
+<dd><p>Represents a directory in a dispatch tree.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DirectoryNode.fspath">
+<code class="descname">fspath</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DirectoryNode.fspath" title="Permalink to this definition">¶</a></dt>
+<dd><p>The absolute filesystem path of this node.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DirectoryNode.wildcard">
+<code class="descname">wildcard</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DirectoryNode.wildcard" title="Permalink to this definition">¶</a></dt>
+<dd><p>The name of the path variable if the node is a wildcard.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.DirectoryNode.children">
+<code class="descname">children</code><a class="headerlink" href="#aspen.request_processor.dispatcher.DirectoryNode.children" title="Permalink to this definition">¶</a></dt>
+<dd><p>The node’s children as a dict (keys are names and values are nodes).</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.LiveDirectoryNode">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">LiveDirectoryNode</code><span class="sig-paren">(</span><em>fspath</em>, <em>wildcard</em>, <em>children</em>, <em>mtime</em>, <em>dispatcher</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.LiveDirectoryNode" title="Permalink to this definition">¶</a></dt>
+<dd><p>Dynamically represents a directory in a dispatch tree.</p>
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.LiveDirectoryNode.fspath">
+<code class="descname">fspath</code><a class="headerlink" href="#aspen.request_processor.dispatcher.LiveDirectoryNode.fspath" title="Permalink to this definition">¶</a></dt>
+<dd><p>The absolute filesystem path of this node.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.LiveDirectoryNode.wildcard">
+<code class="descname">wildcard</code><a class="headerlink" href="#aspen.request_processor.dispatcher.LiveDirectoryNode.wildcard" title="Permalink to this definition">¶</a></dt>
+<dd><p>The name of the path variable if the node is a wildcard.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.LiveDirectoryNode.mtime">
+<code class="descname">mtime</code><a class="headerlink" href="#aspen.request_processor.dispatcher.LiveDirectoryNode.mtime" title="Permalink to this definition">¶</a></dt>
+<dd><p>The last modification time of the directory, in nanoseconds.</p>
+</dd></dl>
+
+<dl class="attribute">
+<dt id="aspen.request_processor.dispatcher.LiveDirectoryNode.dispatcher">
+<code class="descname">dispatcher</code><a class="headerlink" href="#aspen.request_processor.dispatcher.LiveDirectoryNode.dispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>Points to the <a class="reference internal" href="#aspen.request_processor.dispatcher.Dispatcher" title="aspen.request_processor.dispatcher.Dispatcher"><code class="xref py py-class docutils literal notranslate"><span class="pre">Dispatcher</span></code></a> object that created this node.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.legacy_collision_handler">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">legacy_collision_handler</code><span class="sig-paren">(</span><em>slug</em>, <em>node1</em>, <em>node2</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.legacy_collision_handler" title="Permalink to this definition">¶</a></dt>
+<dd><p>Ignores all collisions, like <a class="reference internal" href="#aspen.request_processor.dispatcher.SystemDispatcher" title="aspen.request_processor.dispatcher.SystemDispatcher"><code class="xref py py-class docutils literal notranslate"><span class="pre">SystemDispatcher</span></code></a> does.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.strict_collision_handler">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">strict_collision_handler</code><span class="sig-paren">(</span><em>*args</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.strict_collision_handler" title="Permalink to this definition">¶</a></dt>
+<dd><p>A sane collision handler, it doesn’t allow any.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.hybrid_collision_handler">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">hybrid_collision_handler</code><span class="sig-paren">(</span><em>slug</em>, <em>node1</em>, <em>node2</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.hybrid_collision_handler" title="Permalink to this definition">¶</a></dt>
+<dd><p>This collision handler allows a static file to shadow a dynamic resource.</p>
+<p>Example: <code class="docutils literal notranslate"><span class="pre">/file.js</span></code> will be preferred over <code class="docutils literal notranslate"><span class="pre">/file.js.spt</span></code>.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.skip_hidden_files">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">skip_hidden_files</code><span class="sig-paren">(</span><em>name</em>, <em>dirpath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.skip_hidden_files" title="Permalink to this definition">¶</a></dt>
+<dd><p>Skip all names starting with a dot, except <code class="docutils literal notranslate"><span class="pre">.well-known</span></code>.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.dispatcher.skip_nothing">
+<code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">skip_nothing</code><span class="sig-paren">(</span><em>name</em>, <em>dirpath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.skip_nothing" title="Permalink to this definition">¶</a></dt>
+<dd><p>Always returns <a class="reference external" href="https://docs.python.org/3/library/constants.html#False" title="(in Python v3.9)"><code class="xref py py-obj docutils literal notranslate"><span class="pre">False</span></code></a>.</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.Dispatcher">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">Dispatcher</code><span class="sig-paren">(</span><em>www_root</em>, <em>is_dynamic</em>, <em>indices</em>, <em>typecasters</em>, <em>file_skipper=&lt;function skip_hidden_files&gt;</em>, <em>collision_handler=&lt;function hybrid_collision_handler&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.Dispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>The abstract base class of dispatchers.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>www_root</strong> – the path to a filesystem directory</li>
+<li><strong>is_dynamic</strong> – a function that takes a file name and returns a boolean</li>
+<li><strong>indices</strong> – a list of filenames that should be treated as directory indexes</li>
+<li><strong>typecasters</strong> – a dict of typecasters, keys are strings and values are functions</li>
+<li><strong>file_skipper</strong> – a function that takes a file name and a directory path and returns a boolean</li>
+<li><strong>collision_handler</strong> – a function that takes 3 arguments (<cite>slug, node1, node2</cite>) and returns a string</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<dl class="method">
+<dt id="aspen.request_processor.dispatcher.Dispatcher.build_dispatch_tree">
+<code class="descname">build_dispatch_tree</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.Dispatcher.build_dispatch_tree" title="Permalink to this definition">¶</a></dt>
+<dd><p>Called to build the dispatch tree.</p>
+<p>Subclasses <strong>must</strong> implement this method.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.dispatcher.Dispatcher.dispatch">
+<code class="descname">dispatch</code><span class="sig-paren">(</span><em>path</em>, <em>path_segments</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.Dispatcher.dispatch" title="Permalink to this definition">¶</a></dt>
+<dd><p>Dispatch a request.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>path</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the request path, e.g. <code class="docutils literal notranslate"><span class="pre">'/'</span></code></li>
+<li><strong>path_segments</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#list" title="(in Python v3.9)"><em>list</em></a>) – the path split into segments, e.g. <code class="docutils literal notranslate"><span class="pre">['']</span></code></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Subclasses <strong>must</strong> implement this method.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.dispatcher.Dispatcher.find_index">
+<code class="descname">find_index</code><span class="sig-paren">(</span><em>dirpath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.Dispatcher.find_index" title="Permalink to this definition">¶</a></dt>
+<dd><p>Looks for an index file in a directory.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">the full path of the first index file, or <a class="reference external" href="https://docs.python.org/3/library/constants.html#None" title="(in Python v3.9)"><code class="xref py py-obj docutils literal notranslate"><span class="pre">None</span></code></a> if no index was found</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.request_processor.dispatcher.Dispatcher.split_wildcard">
+<code class="descname">split_wildcard</code><span class="sig-paren">(</span><em>wildcard</em>, <em>is_dir</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.Dispatcher.split_wildcard" title="Permalink to this definition">¶</a></dt>
+<dd><p>Splits a wildcard into its components.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>wildcard</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the string to split, e.g. <code class="xref py py-obj docutils literal notranslate"><span class="pre">'year.int'</span></code></li>
+<li><strong>is_dir</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.9)"><em>bool</em></a>) – <a class="reference external" href="https://docs.python.org/3/library/constants.html#True" title="(in Python v3.9)"><code class="xref py py-obj docutils literal notranslate"><span class="pre">True</span></code></a> if the wildcard is from a directory name</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">a 3-tuple <code class="docutils literal notranslate"><span class="pre">(varname,</span> <span class="pre">vartype,</span> <span class="pre">extension)</span></code></p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.SystemDispatcher">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">SystemDispatcher</code><span class="sig-paren">(</span><em>www_root</em>, <em>is_dynamic</em>, <em>indices</em>, <em>typecasters</em>, <em>file_skipper=&lt;function skip_hidden_files&gt;</em>, <em>collision_handler=&lt;function hybrid_collision_handler&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.SystemDispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>Aspen’s original dispatcher, it’s very inefficient.</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.UserlandDispatcher">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">UserlandDispatcher</code><span class="sig-paren">(</span><em>www_root</em>, <em>is_dynamic</em>, <em>indices</em>, <em>typecasters</em>, <em>file_skipper=&lt;function skip_hidden_files&gt;</em>, <em>collision_handler=&lt;function hybrid_collision_handler&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.UserlandDispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>A dispatcher optimized for production use.</p>
+<p>This dispatcher builds a complete and static tree when it is first created.
+It then uses this dispatch tree to route requests without making any system
+call, thus avoiding FFI and context switching costs.</p>
+<p>This is the default dispatcher (when the <code class="docutils literal notranslate"><span class="pre">changes_reload</span></code> configuration
+option is <code class="docutils literal notranslate"><span class="pre">False</span></code>).</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.HybridDispatcher">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">HybridDispatcher</code><span class="sig-paren">(</span><em>www_root</em>, <em>is_dynamic</em>, <em>indices</em>, <em>typecasters</em>, <em>file_skipper=&lt;function skip_hidden_files&gt;</em>, <em>collision_handler=&lt;function hybrid_collision_handler&gt;</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.HybridDispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>A dispatcher optimized for development environments.</p>
+<p>This dispatcher is almost identical to <a class="reference internal" href="#aspen.request_processor.dispatcher.UserlandDispatcher" title="aspen.request_processor.dispatcher.UserlandDispatcher"><code class="xref py py-class docutils literal notranslate"><span class="pre">UserlandDispatcher</span></code></a>, except
+that it does make some system calls to check that the matched filesystem
+directories haven’t been modified. If changes are detected, then the
+dispacth tree is updated accordingly.</p>
+<p>This is the default dispatcher when the <code class="docutils literal notranslate"><span class="pre">changes_reload</span></code> configuration
+option is set to <code class="docutils literal notranslate"><span class="pre">True</span></code>.</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.request_processor.dispatcher.TestDispatcher">
+<em class="property">class </em><code class="descclassname">aspen.request_processor.dispatcher.</code><code class="descname">TestDispatcher</code><span class="sig-paren">(</span><em>*args</em>, <em>**kw</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.dispatcher.TestDispatcher" title="Permalink to this definition">¶</a></dt>
+<dd><p>This pseudo-dispatcher calls all the other dispatchers and checks that their
+results are identical. It’s only meant to be used in Aspen’s own tests.</p>
+</dd></dl>
+
+</div>
+<span id="document-reference/typecasting"></span><div class="section" id="module-aspen.request_processor.typecasting">
+<span id="aspen-request-processor-typecasting"></span><h4><a class="reference internal" href="#module-aspen.request_processor.typecasting" title="aspen.request_processor.typecasting"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.request_processor.typecasting</span></code></a><a class="headerlink" href="#module-aspen.request_processor.typecasting" title="Permalink to this headline">¶</a></h4>
+<p>This module handles the parsing of path variables.</p>
+<dl class="data">
+<dt id="aspen.request_processor.typecasting.defaults">
+<code class="descclassname">aspen.request_processor.typecasting.</code><code class="descname">defaults</code><em class="property"> = {'float': &lt;function &lt;lambda&gt;&gt;, 'int': &lt;function &lt;lambda&gt;&gt;}</em><a class="headerlink" href="#aspen.request_processor.typecasting.defaults" title="Permalink to this definition">¶</a></dt>
+<dd><p>Aspen’s default typecasters.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.request_processor.typecasting.apply_typecasters">
+<code class="descclassname">aspen.request_processor.typecasting.</code><code class="descname">apply_typecasters</code><span class="sig-paren">(</span><em>typecasters</em>, <em>path_vars</em>, <em>context</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.request_processor.typecasting.apply_typecasters" title="Permalink to this definition">¶</a></dt>
+<dd><p>Perform typecasting (in-place!).</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>typecasters</strong> – a <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">dict</span></code></a> of type names to typecast functions</li>
+<li><strong>path_vars</strong> – a <a class="reference internal" href="index.html#aspen.http.mapping.Mapping" title="aspen.http.mapping.Mapping"><code class="xref py py-class docutils literal notranslate"><span class="pre">Mapping</span></code></a> of path variables</li>
+<li><strong>context</strong> – a <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.9)"><code class="xref py py-class docutils literal notranslate"><span class="pre">dict</span></code></a> passed to typecast functions as second argument</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Raises:</th><td class="field-body"><p class="first last"><code class="xref py py-exc docutils literal notranslate"><span class="pre">TypecastError</span></code> – if a typecast function raises an exception</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</div>
+<span id="document-reference/simplates"></span><div class="section" id="module-aspen.simplates.simplate">
+<span id="aspen-simplates"></span><h4><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.simplates</span></code><a class="headerlink" href="#module-aspen.simplates.simplate" title="Permalink to this headline">¶</a></h4>
+<dl class="class">
+<dt id="aspen.simplates.simplate.Simplate">
+<em class="property">class </em><code class="descclassname">aspen.simplates.simplate.</code><code class="descname">Simplate</code><span class="sig-paren">(</span><em>request_processor</em>, <em>fspath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.simplate.Simplate" title="Permalink to this definition">¶</a></dt>
+<dd><p>A simplate is a dynamic resource with multiple syntaxes in one file.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>fspath</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the absolute filesystem path of this simplate</td>
+</tr>
+</tbody>
+</table>
+<dl class="method">
+<dt id="aspen.simplates.simplate.Simplate.render_for_type">
+<code class="descname">render_for_type</code><span class="sig-paren">(</span><em>media_type</em>, <em>context</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.simplate.Simplate.render_for_type" title="Permalink to this definition">¶</a></dt>
+<dd><p>Render the simplate.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>media_type</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – the media type of the page to render</li>
+<li><strong>context</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.9)"><em>dict</em></a>) – execution context values you wish to supply</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Returns: an <code class="xref py py-class docutils literal notranslate"><span class="pre">Output</span></code> object.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.simplate.Simplate.parse_into_pages">
+<code class="descname">parse_into_pages</code><span class="sig-paren">(</span><em>decoded</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.simplate.Simplate.parse_into_pages" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a bytestring that is the entire simplate, return a list of pages.</p>
+<p>If there’s one page, it’s a template.</p>
+<p>If there’s more than one page, the first page is always python and the
+last is always a template.</p>
+<p>If there’s more than two pages, the second page is python <em>unless it has
+a specline</em>, which makes it a template.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.simplate.Simplate.compile_pages">
+<code class="descname">compile_pages</code><span class="sig-paren">(</span><em>pages</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.simplate.Simplate.compile_pages" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a list of pages, replace the pages with objects.</p>
+<p>Page 0 is the ‘run once’ page - it is executed and the resulting
+context stored in <code class="xref py py-obj docutils literal notranslate"><span class="pre">self.pages[0]</span></code>.</p>
+<p>Page 1 is the ‘run every’ page - it is compiled for easier execution
+later, and stored in <code class="xref py py-obj docutils literal notranslate"><span class="pre">self.pages[1]</span></code>.</p>
+<p>Subsequent pages are templates, so each one’s content type and
+respective renderer are stored as a tuple in <code class="xref py py-obj docutils literal notranslate"><span class="pre">self.pages[n]</span></code>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.simplate.Simplate.compile_page">
+<code class="descname">compile_page</code><span class="sig-paren">(</span><em>page</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.simplate.Simplate.compile_page" title="Permalink to this definition">¶</a></dt>
+<dd><p>Given a <code class="xref py py-class docutils literal notranslate"><span class="pre">Page</span></code>, return a <code class="xref py py-obj docutils literal notranslate"><span class="pre">(renderer,</span> <span class="pre">media_type)</span></code> pair.</p>
+</dd></dl>
+
+</dd></dl>
+
+<span class="target" id="module-aspen.simplates.renderers"></span><dl class="function">
+<dt id="aspen.simplates.renderers.factories">
+<code class="descclassname">aspen.simplates.renderers.</code><code class="descname">factories</code><span class="sig-paren">(</span><em>configuration</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.factories" title="Permalink to this definition">¶</a></dt>
+<dd><p>return a dict of render factory names to the factories themselves</p>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.simplates.renderers.Renderer">
+<em class="property">class </em><code class="descclassname">aspen.simplates.renderers.</code><code class="descname">Renderer</code><span class="sig-paren">(</span><em>factory</em>, <em>filepath</em>, <em>raw</em>, <em>media_type</em>, <em>offset</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Renderer" title="Permalink to this definition">¶</a></dt>
+<dd><p>The base class of renderers.</p>
+<dl class="method">
+<dt id="aspen.simplates.renderers.Renderer.compile">
+<code class="descname">compile</code><span class="sig-paren">(</span><em>filepath</em>, <em>padded</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Renderer.compile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Override.</p>
+<p>Whatever you return from this will be set on self.compiled the first
+time the renderer is called. If changes_reload is True then this will
+be called every time the renderer is called. You can then use
+self.compiled in your render_content method as needed.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.renderers.Renderer.render_content">
+<code class="descname">render_content</code><span class="sig-paren">(</span><em>context</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Renderer.render_content" title="Permalink to this definition">¶</a></dt>
+<dd><p>Override. Context is a dict.</p>
+<p>You can use these attributes:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="bp">self</span><span class="o">.</span><span class="n">raw</span>        <span class="n">the</span> <span class="n">raw</span> <span class="nb">bytes</span> <span class="n">of</span> <span class="n">the</span> <span class="n">content</span> <span class="n">page</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">compiled</span>   <span class="n">the</span> <span class="n">result</span> <span class="n">of</span> <span class="bp">self</span><span class="o">.</span><span class="n">compile</span> <span class="p">(</span><span class="n">generally</span> <span class="n">a</span> <span class="n">template</span> <span class="ow">in</span>
+                 <span class="n">compiled</span> <span class="nb">object</span> <span class="n">form</span><span class="p">)</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">meta</span>       <span class="n">the</span> <span class="n">result</span> <span class="n">of</span> <span class="n">Factory</span><span class="o">.</span><span class="n">compile_meta</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">media_type</span> <span class="n">the</span> <span class="n">media</span> <span class="nb">type</span> <span class="n">of</span> <span class="n">the</span> <span class="n">page</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">offset</span>     <span class="n">the</span> <span class="n">line</span> <span class="n">number</span> <span class="n">at</span> <span class="n">which</span> <span class="n">the</span> <span class="n">page</span> <span class="n">starts</span>
+</pre></div>
+</div>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.simplates.renderers.Factory">
+<em class="property">class </em><code class="descclassname">aspen.simplates.renderers.</code><code class="descname">Factory</code><span class="sig-paren">(</span><em>configuration</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Factory" title="Permalink to this definition">¶</a></dt>
+<dd><p>The base class of renderer factories.</p>
+<dl class="class">
+<dt id="aspen.simplates.renderers.Factory.Renderer">
+<em class="property">class </em><code class="descname">Renderer</code><span class="sig-paren">(</span><em>factory</em>, <em>filepath</em>, <em>raw</em>, <em>media_type</em>, <em>offset</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Factory.Renderer" title="Permalink to this definition">¶</a></dt>
+<dd><p>The base class of renderers.</p>
+<dl class="method">
+<dt id="aspen.simplates.renderers.Factory.Renderer.compile">
+<code class="descname">compile</code><span class="sig-paren">(</span><em>filepath</em>, <em>padded</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Factory.Renderer.compile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Override.</p>
+<p>Whatever you return from this will be set on self.compiled the first
+time the renderer is called. If changes_reload is True then this will
+be called every time the renderer is called. You can then use
+self.compiled in your render_content method as needed.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.renderers.Factory.Renderer.render_content">
+<code class="descname">render_content</code><span class="sig-paren">(</span><em>context</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Factory.Renderer.render_content" title="Permalink to this definition">¶</a></dt>
+<dd><p>Override. Context is a dict.</p>
+<p>You can use these attributes:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="bp">self</span><span class="o">.</span><span class="n">raw</span>        <span class="n">the</span> <span class="n">raw</span> <span class="nb">bytes</span> <span class="n">of</span> <span class="n">the</span> <span class="n">content</span> <span class="n">page</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">compiled</span>   <span class="n">the</span> <span class="n">result</span> <span class="n">of</span> <span class="bp">self</span><span class="o">.</span><span class="n">compile</span> <span class="p">(</span><span class="n">generally</span> <span class="n">a</span> <span class="n">template</span> <span class="ow">in</span>
+                 <span class="n">compiled</span> <span class="nb">object</span> <span class="n">form</span><span class="p">)</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">meta</span>       <span class="n">the</span> <span class="n">result</span> <span class="n">of</span> <span class="n">Factory</span><span class="o">.</span><span class="n">compile_meta</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">media_type</span> <span class="n">the</span> <span class="n">media</span> <span class="nb">type</span> <span class="n">of</span> <span class="n">the</span> <span class="n">page</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">offset</span>     <span class="n">the</span> <span class="n">line</span> <span class="n">number</span> <span class="n">at</span> <span class="n">which</span> <span class="n">the</span> <span class="n">page</span> <span class="n">starts</span>
+</pre></div>
+</div>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="method">
+<dt id="aspen.simplates.renderers.Factory.compile_meta">
+<code class="descname">compile_meta</code><span class="sig-paren">(</span><em>configuration</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.simplates.renderers.Factory.compile_meta" title="Permalink to this definition">¶</a></dt>
+<dd><p>Takes a configuration object. Override as needed.</p>
+<p>Whatever you return from this will be set on self.meta the first time
+the factory is called, or every time if changes_reload is True. You can
+then use self.meta in your Renderer class as needed.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+<span id="document-reference/output"></span><div class="section" id="module-aspen.output">
+<span id="aspen-output"></span><h4><a class="reference internal" href="#module-aspen.output" title="aspen.output"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.output</span></code></a><a class="headerlink" href="#module-aspen.output" title="Permalink to this headline">¶</a></h4>
+<dl class="class">
+<dt id="aspen.output.Output">
+<em class="property">class </em><code class="descclassname">aspen.output.</code><code class="descname">Output</code><span class="sig-paren">(</span><em>body=None</em>, <em>media_type=None</em>, <em>charset=None</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.output.Output" title="Permalink to this definition">¶</a></dt>
+<dd><p>The result of rendering a resource.</p>
+</dd></dl>
+
+</div>
+<span id="document-reference/testing"></span><div class="section" id="module-aspen.testing">
+<span id="aspen-testing"></span><h4><a class="reference internal" href="#module-aspen.testing" title="aspen.testing"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.testing</span></code></a><a class="headerlink" href="#module-aspen.testing" title="Permalink to this headline">¶</a></h4>
+<p>This module provides helpers for testing applications that use Aspen.</p>
+<dl class="function">
+<dt id="aspen.testing.teardown">
+<code class="descclassname">aspen.testing.</code><code class="descname">teardown</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#aspen.testing.teardown" title="Permalink to this definition">¶</a></dt>
+<dd><p>Standard teardown function.</p>
+<ul class="simple">
+<li>reset the current working directory</li>
+<li>remove FSFIX = %{tempdir}/fsfix</li>
+<li>clear out sys.path_importer_cache</li>
+</ul>
+</dd></dl>
+
+<dl class="class">
+<dt id="aspen.testing.Harness">
+<em class="property">class </em><code class="descclassname">aspen.testing.</code><code class="descname">Harness</code><a class="headerlink" href="#aspen.testing.Harness" title="Permalink to this definition">¶</a></dt>
+<dd><p>A harness to be used in the Aspen test suite itself. Probably not useful to you.</p>
+<dl class="method">
+<dt id="aspen.testing.Harness.simple">
+<code class="descname">simple</code><span class="sig-paren">(</span><em>contents='Greetings</em>, <em>program!'</em>, <em>filepath='index.html.spt'</em>, <em>uripath=None</em>, <em>querystring=''</em>, <em>request_processor_configuration=None</em>, <em>**kw</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.testing.Harness.simple" title="Permalink to this definition">¶</a></dt>
+<dd><p>A helper to create a file and hit it through our machinery.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="function">
+<dt id="aspen.testing.chdir">
+<code class="descclassname">aspen.testing.</code><code class="descname">chdir</code><span class="sig-paren">(</span><em>path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.testing.chdir" title="Permalink to this definition">¶</a></dt>
+<dd><p>A context manager that temporarily changes the working directory.</p>
+</dd></dl>
+
+</div>
+<span id="document-reference/exceptions"></span><div class="section" id="module-aspen.exceptions">
+<span id="aspen-exceptions"></span><h4><a class="reference internal" href="#module-aspen.exceptions" title="aspen.exceptions"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aspen.exceptions</span></code></a><a class="headerlink" href="#module-aspen.exceptions" title="Permalink to this headline">¶</a></h4>
+<p>This module defines all of the custom exceptions used across the Aspen library.</p>
+<dl class="exception">
+<dt id="aspen.exceptions.ConfigurationError">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">ConfigurationError</code><span class="sig-paren">(</span><em>msg</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.ConfigurationError" title="Permalink to this definition">¶</a></dt>
+<dd><p>This is an error in any part of our configuration.</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.NegotiationFailure">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">NegotiationFailure</code><span class="sig-paren">(</span><em>accept</em>, <em>available_types</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.NegotiationFailure" title="Permalink to this definition">¶</a></dt>
+<dd><p>The requested media type isn’t available (HTTP status code 406).</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.TypecastError">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">TypecastError</code><span class="sig-paren">(</span><em>extension</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.TypecastError" title="Permalink to this definition">¶</a></dt>
+<dd><p>Parsing a segment of the request path failed (HTTP status code 404).</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.NotFound">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">NotFound</code><span class="sig-paren">(</span><em>message=''</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.NotFound" title="Permalink to this definition">¶</a></dt>
+<dd><p>The requested resource isn’t available (HTTP status code 404).</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.AttemptedBreakout">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">AttemptedBreakout</code><span class="sig-paren">(</span><em>sym_path</em>, <em>real_path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.AttemptedBreakout" title="Permalink to this definition">¶</a></dt>
+<dd><p>Raised when a request is dispatched to a symlinked file which is outside
+<a class="reference internal" href="index.html#aspen.request_processor.DefaultConfiguration.www_root" title="aspen.request_processor.DefaultConfiguration.www_root"><code class="xref py py-attr docutils literal notranslate"><span class="pre">www_root</span></code></a>.</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.PossibleBreakout">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">PossibleBreakout</code><span class="sig-paren">(</span><em>sym_path</em>, <em>real_path</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.PossibleBreakout" title="Permalink to this definition">¶</a></dt>
+<dd><p>A warning emitted when a symlink that points outside
+<a class="reference internal" href="index.html#aspen.request_processor.DefaultConfiguration.www_root" title="aspen.request_processor.DefaultConfiguration.www_root"><code class="xref py py-attr docutils literal notranslate"><span class="pre">www_root</span></code></a> is detected.</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.SlugCollision">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">SlugCollision</code><span class="sig-paren">(</span><em>slug</em>, <em>node1</em>, <em>node2</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.SlugCollision" title="Permalink to this definition">¶</a></dt>
+<dd><p>Raised if two files claim the same URL path.</p>
+<p>Example: <code class="docutils literal notranslate"><span class="pre">foo.html</span></code> and <code class="docutils literal notranslate"><span class="pre">foo.html.spt</span></code> both claim <code class="docutils literal notranslate"><span class="pre">/foo.html</span></code>.</p>
+</dd></dl>
+
+<dl class="exception">
+<dt id="aspen.exceptions.WildcardCollision">
+<em class="property">exception </em><code class="descclassname">aspen.exceptions.</code><code class="descname">WildcardCollision</code><span class="sig-paren">(</span><em>varname</em>, <em>fspath</em><span class="sig-paren">)</span><a class="headerlink" href="#aspen.exceptions.WildcardCollision" title="Permalink to this definition">¶</a></dt>
+<dd><p>Raised if a filesystem path contains multiple wildcards with the same name.</p>
+<p>Examples: <code class="docutils literal notranslate"><span class="pre">www/%foo/%foo/index.spt</span></code>, <code class="docutils literal notranslate"><span class="pre">www/%foo/bar/%foo.spt</span></code>.</p>
+</dd></dl>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="see-also">
+<h2>See Also<a class="headerlink" href="#see-also" title="Permalink to this headline">¶</a></h2>
+<p>The <a class="reference external" href="http://keystone.readthedocs.org/">Keystone</a> web framework was inspired by Aspen.</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2016, Chad Whitacre, et al
+      
+        <span class="commit">
+          Revision <code>17a12ce1</code>.
+        </span>
+      
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <div class="rst-versions" data-toggle="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      <span class="fa fa-book"> Read the Docs</span>
+      v: latest
+      <span class="fa fa-caret-down"></span>
+    </span>
+    <div class="rst-other-versions">
+      <dl>
+        <dt>Versions</dt>
+        
+          <dd><a href="/en/latest/">latest</a></dd>
+        
+          <dd><a href="/en/stable/">stable</a></dd>
+        
+      </dl>
+      <dl>
+        <dt>Downloads</dt>
+        
+          <dd><a href="//core.aspen.io/_/downloads/en/latest/htmlzip/">html</a></dd>
+        
+          <dd><a href="//core.aspen.io/_/downloads/en/latest/epub/">epub</a></dd>
+        
+      </dl>
+      <dl>
+        <dt>On Read the Docs</dt>
+          <dd>
+            <a href="//readthedocs.org/projects/aspen/?fromdocs=aspen">Project Home</a>
+          </dd>
+          <dd>
+            <a href="//readthedocs.org/builds/aspen/?fromdocs=aspen">Builds</a>
+          </dd>
+      </dl>
+      <hr/>
+      Free document hosting provided by <a href="http://www.readthedocs.org">Read the Docs</a>.
+
+    </div>
+  </div>
+
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+   
+
+</body>
+</html>

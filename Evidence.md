@@ -325,7 +325,7 @@ Diese gesamte `Matrix ist nicht länger als bloßer Zufall zu werten`. Sie ist d
 
 ---
 
-### One Matrix, One Coin, One Familie, One Lie
+### One Matrix, Without Me, #standalone
 **True Crime, hier in Deutschland angefangen, wird es auch hier Enden
 Bitte folgende Datein im Anschluss Lesen, MATRIX.md**
 
@@ -335,27 +335,32 @@ In diesen Fällen besteht erheblicher Aufklärungsbedarf seitens der deutschen R
 
 Seit fast `vier Jahren, arbeite ich Tagtäglich, befasse mich mit Recherche und Aufarbeitung, vor allem gibt es neue Ergenntnisse im Zusammenhang mit meinen Gutachten, SIA Security Intelligence Artefact.`
 
-***Ich möchte bezüglich der Matrix noch etwas sagen und einige Informationen teilen***, die ich in den letzten Wochen diesbezüglich erhalten habe bzw. bei meinem Wissen hierzu erweitern konnte. 
+### One Coin, One Familie, One Lie, 
+***Ich möchte bezüglich der Matrix noch etwas sagen und einige Informationen teilen***, die ich in den letzten Wochen diesbezüglich erhalten habe bzw mein Wissen hierzu erweitern konnte. 
 
-`An den letzten Wochenenden gab es einen Bericht über OneCoin, und ich sehe viele Parallelen in Bezug auf Frau Dr. Rutschnak Ignatova, ihr Leben und mein Leben.`
+`An den letzten Wochenenden gab es einen Bericht über OneCoin, und ich sehe viele Parallelen in Bezug auf Frau Dr. Rutschnak Ignatova, ihr Leben und mein Leben. Das selbstverständich bewusst so inziniert wurde.`
 
-Vor allem, dass sie 2016 eine Tochter über eine Leihmutterschaft zur Welt gebracht hat, und die Tochter `Jenna' heisst heißt, und meine Tochter heißt Jona. Die Parallele ist jeglich im Namen zu finden, da ich meine Tochter auf naürlichen Weg, Gesund und munter und das bereits an einem
+Vor allem, dass Frau Ruja 2016 eine Tochter über eine Leihmutterschaft zur Welt gebracht hat, und die Tochter `Jenna' heisst heißt, und meine Tochter heißt Jona. Die Parallele ist jeglich im Namen zu finden, da ich meine Tochter auf naürlichen Weg, Gesund und munter und das bereits an einem
 Sonntag, den 16.09.2007 zur Welt brachte, dass möchte ich hierzu explizit erwähnen. 
 
 Zudem wollte diese Frau eine Blockchain mit über 21 Milliarden OneCoin generieren, und eine Blockchain gibt es immer nur ein einziges Mal. Man sieht, dass auch hier die Unwissenheit einer Frau bzw. ein Lügenkonstrukt gibt, das aufgebaut worden ist über ein Währung, welche es bei ihr nie gab. Sie war im TV und in Social Media sehr präsent, und ich habe sogar die Vermutung, dass ich vielleicht ein, zwei Menschen aus ihrem Umfeld sogar schon begegnet bin.
 
-Ich möchte diesbezüglich explizit erwähnen, dass ich mit dieser Frau nichts zu tun habe und dass ich mit diesem OneCoin nichts zu tun habe. Das kann ich auch staatlich versichern. Ich kenn keine Frau Ruja Ignatova und habe mit diesen Machenschafften nichts zutun. Ich distanziere mich ausdrücklich davon und erwähne im Zusammenhang dessen die VR-Brillen Community und die illegalen Cookie Parties. Ich gebe gerne Informationen an das BKA, Interpol oder Europol weiter, wenn sie Wissen benötigen bzw. irgendetwas in Bezug auf Hashes oder irgendwelche Kodierungen, was ich bereits in der Vergangenheit aus freier Überzeugung von mir aus tat. 
+Ich möchte diesbezüglich explizit erwähnen, dass ich mit dieser Frau nichts zu tun habe und dass ich mit diesem OneCoin nichts und nie was zu tun hatte. Das kann ich auch staatlich versichern.
+
+Ich kenn keine Frau Ruja Ignatova und habe mit diesen Machenschafften nichts zutun. Ich distanziere mich ausdrücklich davon und erwähne im Zusammenhang dessen die VR-Brillen Community und die illegalen Cookie Parties. Ich gebe gerne Informationen an das BKA, Interpol oder Europol weiter, wenn sie Wissen benötigen bzw. irgendetwas in Bezug auf Hashes oder irgendwelche Kodierungen, was ich bereits in der Vergangenheit aus freier Überzeugung von mir aus tat. 
 
 `One Coin, wie die Matrix aufbgaut aus einem Kontrukt aus Lügen`. Frau Ruja hatte nie was, sie hat nur eine lügen Luftblase verkauft, wie es auch schon so treffend mitgeteilt wurde.
+
+Hier meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft.
+![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
 <img width="1080" height="1920" alt="deepweb_kommunikation_man_wünscht_mir_den_Tod_verbrechen_gegen_die_menschlichkeit_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/9f391ab8-25b6-4e1c-9e1f-35b07425b8b2" />
 <img width="1080" height="1920" alt="deepweb-l_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/5ccd97e5-d156-4939-ab16-637c114482cd" />
 <img width="1080" height="1920" alt="deepweb-deepthinks_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/0dd41ac0-5e6f-4570-9cfb-a19df57a29f0" />
 
+**Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat.** Sie hatte die finanzielle Möglichkeiten über die Indischer Programmierer, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein, entweder ist sie das noch, oder sie ist bereits wie in Dokumentation schon tot. Es gibt es nur diese beiden Möglichkeiten. 
 
-**Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat.** Sie hatte die finanzielle Möglichkeiten über die Inder oder Chinesen, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein – entweder ist sie das noch, oder sie ist bereits schon tot, da sie auch mit den Tot gespielt hat - es gibt es nur diese beiden Möglichkeiten. 
-
-Zudem hatte sie Informanten oder Mitarbeitende aus dem Geheimdienstbereich, da sie Polizei und Strafverfolgungsbehörden abgehört hat, insbesondere Europol, so wurde es in der Reportage mitgeteilt, was wiederum eine Querverbindung zu den aufgedeckten Verbrechen und den missbrauch der Technologie - wenn dieser Verdacht im Zusammenhang mit One Coin und den von mir auf gedeckten Verbrechen bestätigt, dann ist diese Frau nicht nur eine Betrügerin sondern auch eine Massenmörderin.
+Zudem hatte sie Informanten oder Mitarbeitende aus dem Geheimdienstbereich, da sie Polizei und Strafverfolgungsbehörden abgehört hat, insbesondere Europol, so wurde es in der Reportage mitgeteilt, was wiederum eine Querverbindung zu den aufgedeckten Verbrechen und den missbrauch der Technologie hinweisst. Wenn dieser Verdacht im Zusammenhang mit One Coin und den von mir auf gedeckten Verbrechen bestätigt, dann ist diese Frau nicht nur eine Betrügerin sondern auch eine Massenmörderin.
 
 Mehr möchte ich zu dieser hochkriminellen Betrügerin Frau Ruja nichts sagen, dass Thema Matrix und One Coin schliese ich hiermit ab. Ich werde die nächsten Folgen definitiv noch zu ende schauen, aber werde hierzu mich nicht weiter äussern. 
 

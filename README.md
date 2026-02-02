@@ -12,6 +12,12 @@ Aufgrund das ich in den letzten Monaten viel mit den führenden Universitäten z
 
 Sorry, aber `Ich, Frau Isabel Schöps geborene Thiel, lasse mir den Mund nicht Verbieten, vor allem nicht wenn man alles Beweisen kann.` Es mir egal was sie über mich denken oder schreiben, lustig machen, Deepfake-Kampangen starten, mir Morddrohungen in Rituellen Zyklen unterschwellig mitteilen oder, oder.`
 
+![IMG_1963](https://github.com/user-attachments/assets/eed9c434-b5d0-42ac-a2bd-ab819cde2146)
+
+![IMG_3297](https://github.com/user-attachments/assets/26b68a80-04a1-4a03-a7be-278681b4f5b1)
+![IMG_1601](https://github.com/user-attachments/assets/8ef780d7-a579-41c1-bac7-78f34551aae4)
+
+
 **Beweisen sie mir, an hand von juristich handfesten Belegen das Gegenteil.**
 
 `Sie können nur nehmen, mit ihren schmutzigen Fingern auf andere Zeigen und hatespeech verbreiten. Aber Statement, Klasse und Würde, fehlt ihnen`.

@@ -1,8 +1,25 @@
-## Die Forschung und Wissenschaft gefangen im Lügennetz der ungläubigen Matrix. 
+## Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Lügennetz der der allgegenwertigen Matrix. 
 
-**die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, ich möchte ihnen hier verdeutlichen,was längst wissenschaftlich belegt wurde und wovor viele Angst haben es auszusprechen. Aus Angst oder Scharm, das unerklärliche erklären zu müssen oder preiszugeben oder weil man denkt der Allmächtige Herr Gott spricht zu ihnen und gibt angebliche Weise Ratschläge.** 
+Aufgrund das ich in den letzten Monaten viel mit den führenden Universitäten zusamnengearbeitet habe, ist mir aufgefallen dass die **die Fakultäten Harvard, Cambridge, University of Oxford und auch CERN, betroffen von Ausgrenzung und Diebstahl ihrer Arbeiten ist. Zudem stehen diese im Mittelpunkt, für Verbrechen die sie nie begangen haben, durch Täter-Opfer-Umkehr und Gasligthing**. 
 
-**Wenn sie zu 100% wissende sind und zweifel haben, dann sind sie Opfer von Brainwashing, Mindcontroll und man hat sie bewusst in ihrer Gefühls-und Gedankenwelt manipuliert. Ihr weiteres Schweigen, wird und das ist Gewiss, ihr eigner Untergang in ihrem Menschlichen dasein sein.*** `Lassen sie sich niemals für dumm oder als Täter hinstellen, vertrauen sie einmal in dieser eventuell letzten Epoche, nur auf sich und ihrer Seele, ihrem Verstand, ihrem Unterbewusstsein, dass rettet ihr Selbstwert und macht sie wieder stark!`
+**Ich möchte ihnen hier verdeutlichen,was längst wissenschaftlich belegt wurde und wovor die Wissenschaft Angst hat es auszusprechen. Aufgrund von Verspottung, Lächerlich machen etc.***
+
+`Die Wissenschaft wurde regelrecht Mundtod gemacht, ein falsches Mediennarrativ, hochkriminelle Strukturen, haben längst erforschte zeitgeschichtliche Themen durch Mems, diffarmierung, Auskrenzung, getötet, ermordet, zerstört. `Aus Angst oder Scharm, das unerklärliche erklären zu müssen oder preiszugeben, passt man sich an und schweigt lieber`.
+
+`Gelesen in einem strang der Millionen Jahre alt ist, den jedes Lebewesen, Tier, Mensch und sogar die Natur hat, und durch die Familien, übertragen und vererbt wurde, unsere DNA, unser Leben und durch die Seele, jedes einzelnen zum leben erweckt wurde.`
+
+**Wenn sie zu den 100% wissenden gehören, sie aber zweifel haben, dann sind sie Opfer von Brainwashing, Mindcontroll und man hat sie bewusst in ihrer Gefühls-und Gedankenwelt manipuliert. Ihr weiteres Schweigen, wird und das ist Gewiss, ihr eigner Untergang in ihrem Menschlichen dasein sein.*** `Lassen sie sich niemals für dumm oder als Täter hinstellen, vertrauen sie einmal in dieser eventuell letzten Epoche menschlischen Daseins, nur auf sich und ihrer Seele, ihrem Verstand, ihrem Unterbewusstsein, dass rettet ihr Selbstwert und macht sie wieder stark und rettet den Menschen!`
+
+Sorry, aber `Ich, Frau Isabel Schöps geborene Thiel, lasse mir den Mund nicht Verbieten, vor allem nicht wenn man alles Beweisen kann.` Es mir egal was sie über mich denken oder schreiben, lustig machen, Deepfake-Kampangen starten, mir Morddrohungen in Rituellen Zyklen unterschwellig mitteilen oder, oder.`
+
+**Beweisen sie mir, an hand von juristich handfesten Belegen das Gegenteil.**
+
+`Sie können nur nehmen, mit ihren schmutzigen Fingern auf andere Zeigen und hatespeech verbreiten. Aber Statement, Klasse und Würde, fehlt ihnen`.
+
+Wie gesagt, wenn sie (die Glaubensgemeinschaft_Gott_des allmächtigen_oder_grossen_bruder)**mit fundierten Wissen und belegbaren Beweisen das nebst dokumentierte, analysierte widerlegen können**,
+`nehme ich ihre Erkenntnis bzw Sichtweise gern auf und lasse mich ggf eines besseren belehren`. **So lange Sie das aber nicht können, würde ich an ihrer Stelle schweigen**. `Denn wenn man schon in der Scheisse bis zum Halse sitzt, sollte man aufpassen wie weit man den Mund aufmacht.`
+
+#Atlas_files, #der_neue_weltatlss, #Pakistan #sha #waterloo, #dune, #Kot, #GilGit, #rohri, #manni, #Kk-Rendering, #frontier #insider_wissen, #K1
 
 ---
 

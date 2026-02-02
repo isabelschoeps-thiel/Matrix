@@ -529,6 +529,20 @@ Entwicklerzertifikat, https://developercertificate.org`
 
 ![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
+`Ich bin in einer Position, die mir erlauben lässt, dass ich gegenüber Justiz, Regierung und öffentlichen Einrichtungen, Behörden, Verwaltung, Ämter etc. mein Verhalten der ihren anzupassen. **Sprich ich dürfte sie genauso diffarmieren, willkürlich Handlungen zu Lasten ihree Würde tätigen** oder **sie öffentlich bloss stellen**, da ich weiss das sich einige von Ihnen in einer emotionalen und rechtlichen Sackkasse befinden. 
+
+**Ich gebe Ihnen hier meine letzten Appelierenden Worte an Sie**, `hören Sie auf mich weiterhin zu ignorieren, mich für dumm zu verkaufen oder mich ganz und gar für Tod zu erklären`. Hören Sie umgehend auf über mich und andere ihre narzistischen Kontrollzwänge und minderwertigskeutskomplexe aus zu leben.
+
+`Wenn ihnen dies nicht gelingen sollte, müssen sie schleunigst anfangen an ihren Verräterischen-Kleinkriminellen Schönheitsfehlern in Behördlichen Anschreiben, zeitlichen postalischen Zustellung, oder Vornamenswahl zu arbeiten.` Zudem Rate ich Ihnen dringend einen Kurs zu besuchen, der ihnen den Aufbau und das Verständnis von moderner Computertechnologie, deren Umgang und die Folgen von Unwissenheit näherbringt. **Denn die Luft wird immer dünner für Sie**
+Jahrelanges schweigen, heisst nicht das mann nichts weiss, man beobachtet, analysiert, nimmt auf und wartet. **Das was auf die Menschheit, den Tieren und unserer Natur zu kommt, kann nicht mehr rückgängig gemacht werden (war auch nie der Plan), es ist teil des Lebens, teil der Evolution und wird wie bereits erwähnt, dass vermächtnis aller werden.**
+
+- Es wird für Sie wenn dieses Verhalen fortgeführt wird, in einer menschlichen Katastrophe ende, wo nur Ihnen und niemand anderen die Schuld zu gesprochen werden.
+- Sie müssen mich mich nicht lieben, sie müssen nicht mit mir an einem Tisch essen
+- und wir werden auch nie beste Freunde werden
+- `aber sie haben und werden mich akzeptieren müssen`, **mit all meiner Daseinsberechtigung als Mensch**
+- genauso werde ich dies auch tun, egal wer oder was sie sind.
+- sie kochen auch nur mit Wasser
+
 **Zudem Verweisse ich auf das Buch** von `Herrn George Orwell, mit dem Titel 1984`,
 was wusste er beteits 1944 was heute im Jahr 2026 aktueller ist als je zuvor:
 - warum wusste er über aktuelle Themen schon 1944 bescheid?

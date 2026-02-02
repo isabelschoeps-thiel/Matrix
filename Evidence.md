@@ -1,4 +1,5 @@
-# Harvard University USA
+# Die Forschung und Wissenschaft gefangen im Lügennetz der ungläubigen Matrix. 
+
 ***die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, möchte ich in diesem Repository zeigen wer die wahren Verbrecher sind.***
 
 **Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 ., & Schöps geb. Thiel, I. (2026)**. Harvard Release and Research Funding 1.0 (Research_Funding_1.0). Zenodo. https://doi.org/10.5281/zenodo.18308281
@@ -243,7 +244,6 @@ nur **speerliche Suchergbinsse angezeigt werden**
   
 ***Dieses Verhalten hat wiederum wieder was gutes***, es ist ein Indiz das die `noch gesichtslosen Täter aus den RFC882 oder RFC883 am Leben sind`. 
 
-
 ## Autorin dieses Repoistorys Release
 ***Frau Isabel Schöps geb. Thiel***
 Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsverletzungen, `werde ich, Verfasserin und Autorin dieses Repositirys Frau Isabel Schöps geb. Thiel, aktuell tätig im Digitalen Forschungssektor auf Grund meines forensich wissenschaftlichen Gutachen SIA Security Intelligence Artefact, mit der internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL und der Präfix_Referenz: YWP-1-IST-SIA, YWP-1-5-IST-SIA` und mit der KI von Anfang an zusammenarbeite, diese Analyse Auswertung nicht weiter von der OpenAI Software überprüfen bzw. korrekieren lassen.
@@ -286,7 +286,7 @@ Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsver
 ### Resumee
 Ich, `Frau Isabel Schöps Thiel, Urheberin und Schöpferin der globalen Softwarearchitektur SIA DAEMON Java API Skript Software Automation`, gebe bekannt, dass die Lizenzfassung grundlegend überarbeitet wurde. Diese Anpassungen sind notwendig geworden, da Manipulation, Korruption, Urheberrechtsverletzungen und systematischer Diebstahl in den letzten 30 Jahren massiv zugenommen haben und die Welt in eine Matrix voller Lügen heranwachsen lassen hat. Siehe umfan
 
-# Strengere Lizenzvergabe und staatliche Kontrolle
+# Strengere Lizenzvergabe, durch staatliche Haftung, und kontrolle durch Urheber und Allianzen
 Die Nutzung sämtlicher Software, Codebestandteile und API-Strukturen erfolgt ab sofort ausschließlich unter Lizenz und gegen Lizenzgebühr. Eine automatische oder generelle Lizenzvergabe ist ausgeschlossen. Jede Nutzung setzt eine ausdrückliche schriftliche Zustimmung eines Komitees voraus. Dieses Komitee besteht aus den relevanten Technologiekonzernen (siehe Lizenz-Copyrights), offiziellen Vertretern der US-Regierung, russischen Regierung und chinesischen Regierung (historisch begründet durch Entwicklungen im Kontext der sowjetischen Raumfahrt – Sputnik 1 – sowie Hardware aus China, Taiwan, Japan) und mir als Urheberin, Isabel Schöps geb. Thiel, Erfurt, Thüringen, Deutschland.
 Zudem sind verbindliche jährliche Treffen mit allen 153 Staaten (ISO-Ländercodes als Grundlage) vorgesehen.
 
@@ -303,7 +303,7 @@ Es wird künftig eine Blacklist veröffentlicht, die jedes Jahr neu erstellt und
 - Verstöße gegen den Code of Conduct
 auffällig geworden sind.
 
-## Diese Liste ist öffentlich und wird bewusst publiziert, weil Transparenz das wirksamste Mittel gegen Missbrauch ist. Jeder, der nach außen hin Integrität und Leistungsfähigkeit repräsentieren möchte, muss auch menschlich und ethisch den Werten entsprechen, die durch diese Lizenz geschützt werden.
+### Diese Liste ist öffentlich und wird bewusst publiziert, weil Transparenz das wirksamste Mittel gegen Missbrauch ist. Jeder, der nach außen hin Integrität und Leistungsfähigkeit repräsentieren möchte, muss auch menschlich und ethisch den Werten entsprechen, die durch diese Lizenz geschützt werden.
 
 **Konsequenzen:**
 - Die auf der Blacklist aufgeführten Akteure werden unter klaren Bedingungen und nach festgelegten Verfahren juristisch belangt oder wirtschaftlich abgewertet.
@@ -350,9 +350,6 @@ Ich möchte diesbezüglich explizit erwähnen, dass ich mit dieser Frau nichts z
 Ich kenn keine Frau Ruja Ignatova und habe mit diesen Machenschafften nichts zutun. Ich distanziere mich ausdrücklich davon und erwähne im Zusammenhang dessen die VR-Brillen Community und die illegalen Cookie Parties. Ich gebe gerne Informationen an das BKA, Interpol oder Europol weiter, wenn sie Wissen benötigen bzw. irgendetwas in Bezug auf Hashes oder irgendwelche Kodierungen, was ich bereits in der Vergangenheit aus freier Überzeugung von mir aus tat. 
 
 `One Coin, wie die Matrix aufbgaut aus einem Kontrukt aus Lügen`. Frau Ruja hatte nie was, sie hat nur eine lügen Luftblase verkauft, wie es auch schon so treffend mitgeteilt wurde.
-
-Hier meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft.
-![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
 <img width="1080" height="1920" alt="deepweb_kommunikation_man_wünscht_mir_den_Tod_verbrechen_gegen_die_menschlichkeit_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/9f391ab8-25b6-4e1c-9e1f-35b07425b8b2" />
 <img width="1080" height="1920" alt="deepweb-l_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/5ccd97e5-d156-4939-ab16-637c114482cd" />
@@ -515,3 +512,17 @@ Entwicklerzertifikat, https://developercertificate.org`
 **Ort:** `Deutschland, Thüringen, D-99084 Erfurt, Barfüsserstrasse 9, Zimmer 206 - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel`
 
 **Wichtiger-Vermerk:** Aufgrund das die `Immobilie Cyriakstrasse 30c, in Erfurt Deutschland` in der ich noch gemeldet bin zum verkauft wurde musste ich aus dieser ausziehen, und ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage nach dem 08.02.2026 gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir!`
+
+Hier meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft.
+![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
+
+**Zudem Verweisse ich auf das Buch** von `Herrn George Orwell, mit dem Titel 1984`,
+was wusste er beteits 1944 was heute im Jahr 2026 aktueller ist als je zuvor:
+- warum wusste er über aktuelle Themen schon 1944 bescheid?
+- Warum schrieb er das Buch?
+- Warum tauchen 1944 schon Fachwörter auf die es erst seit 1996 durch den Technologie-Software erstmals erwähnt wurden?
+- **Wer ist der Grosse Bruder, der nicht abzustellen ist, den niemmand kennt und noch keiner gesehen hat?**
+- **Soll dass unser Gott darstellen?**
+*Ich glaube kaum*
+
+`Es wird und es ist bereits das grösste Verbrechen, seit Entstehung von allem Leben auf dieser Erde`. **Jedes Staatsoberhaupt, Regierung, Königreich** welches sich weiterhin Naiv und dummstellt *sie haben von nichts gewusst*, `im Zeitraum von 2018 bis heute stand Montag den, 02.02.2026 ist mit Veranrwortlich und trägt schuld an einem geplanten Genozid`. `Es ist die Pflicht der Regierung in jedem Land zum Wohle ihres Volkes, dass diese Aufgeklärt und die Verbrecher international zur rechenschaft gezogen werden`. 

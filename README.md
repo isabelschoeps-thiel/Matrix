@@ -82,22 +82,11 @@ https://www.rfc-editor.org/rfc/rfc882
 
 
 # [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
-Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht. Der menschen gemacht und kein
+Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man einen ganz groben menschlichen Fehler gemacht. 
 
+`Ich werde Screenshots zu dokumentation und beweisfühung im IMAG.md einfügen.` 
 
-Ich mache Screenshots und werde sie einfügen. Hier macht man jetzt bei dem RFC 883 macht man jetzt einen entscheidenden 
-
-
-Fehler, einen dummen entscheidenden Fehler. Und was in keinem RFC-Protokoll vorher war, man warnt. Ein Protokoll, was neu aufgesetzt ist, wird erstmal gelesen.
-
-ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen, 
-
-
-
-weil das muss ja erstmal für Menschenhand
-gelesen werden, 
-
-Bulletin dann aufgesetzt, dass hier immer wieder man bei einer Struktur 
+Bei dem RFC 883 hat man einen entscheidenden Fehler gemacht, was im kein RFC-Protokoll vorher dokumentiert wurde, `man warnt` einen gewissen Kreis, Circle an Menschen. Ein Protokoll, was neu aufgesetzt ist, wird erstmal gelesen. `Ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen was 1996 passieren kann. Das geht nur dann wenn man die Zukunft bereits wissentlich erlebt hat.`
 
 ## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
 Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
@@ -110,19 +99,22 @@ Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-edi
 <img width="642" height="1389" alt="IMG_9890" src="https://github.com/user-attachments/assets/e441d085-39ab-4682-962f-bbea89a6d5da" />
 
 ***Ziel kann nur sein:***
-`Um das wiederkehrende erwartende Geschehen, zu ändern, anzupassen oder zu manipulieren - um so an das gewünschte Ergebnis, Ziel zu kommen`.
+`Um das wiederkehrende erwartende Geschehen:` 
+- zu ändern,
+- anzupassen oder
+- zu manipulieren
+**um so an das gewünschte Ergebnis, Ziel trügerisch zu kommen.**
 
-`Solche Protokolle aus dem Jahr 1983, können nur dann so ausführlich, dass kommendende durch gesetzte Strings und Records geschrieben werden, wenn es Mitmenschen umter uns gibt, die Wissen haben und mindestens 2 bis 3 Zeitliche-Epochen mit erlebt und überlebt haben.`
+`Solche Protokolle aus dem Jahr 1983, können nur dann so ausführlich, dass kommendende durch gesetzte Strings und Records geschrieben werden, wenn es Mitmenschen unter uns gibt, die Wissen haben und mindestens 2 bis 3 Zeitliche-Epochen mit erlebt und überlebt haben.`
 
-`Zudem muss es auch lebende Wissende geben, die wie das Wissen besitzen, wann das nächste Ereignis, eine Art Weltuntergangs-Seznario stattfinden könnte oder schon mal stattgefunden hat.`
+`Zudem muss es auch lebende Wissende geben`, die **das Wissen besitzen**, wann das nächste Ereignis, `eine Art Weltuntergangs-Seznario stattfinden könnte oder schon mal stattgefunden hat.`
 
 ### Nur so, kann man so einen präzisen Plan oder Warnunngen im Jahr 1983 aufsetzen, die folgendes Brschreiben: 
-- `was für eine Domain` 
+- `was für eine Domain, wann verwendet werden soll` 
 - `welche Server verwendet bzw. wie sie benannt werden sollen`
 - `ein auffälliges Deckblatt, welches eine Warnung ausspricht`
 
 # Hier ein Auszug aus dem Original
-#  
 >This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names
 context of existing mail systems and other
 network software. This memo assumes that the reader is familiar with RFC 882, "Domain Names - Concepts and Facilities" which discusses the basic principles of domain names and their use. The algorithms and internal data structures used this memo are offered as suggestions rather than
@@ -139,7 +131,7 @@ requirements; implementers are free to design their structures so long as the sa
 - `Warum wird im May, oder Oktober 1983 schon etwas geregelt, was doch noch gar nicht geschehen bzw. eine Einordnung habe dürfte, aufgrund das die Jahre die Aufschluss ergeben erst folgen?`
 
 ### Hier ein Beispiel für das Verständnis: 
-`Ich mir bestelle mir kommenden Freitag, den 16.01.2026, dass Mittag-Essen für mein mein Krankenhausaufenthalt am 28.06.2046 um, weil mir die Suppe zu salzig wird`. 
+`Ich bestelle mir kommenden Freitag, den 06.02.2026, dass Mittag-Essen für mein mein Krankenhaus-Aufenthalt der am 28.06.2046 ansteht um, weil mir die Suppe zu salzig sein wird`. 
 
 - `dies ergibt für die Gutmenschen, für die die das Leben nehmen wie es kommt, keinen Sinn.`
 
@@ -149,34 +141,40 @@ requirements; implementers are free to design their structures so long as the sa
 - `ein Indiz für das Scheintotgeschäft`
 - `ein Indiz und ein Verat für alle die dies, dulden, an sich, seinem Umfeld und allem Leben auf der Erde`
 - `ein Indiz für ein Menschenverachtendes Ekelhaftes Geschäfte, mit geglaubten Tod`
-- ein Menschenrechtsverbrechen, und das ist das letzte.
-- `ein Indiz für Menschen, die unter uns Lebe` **und bewusst in Kauf nehmen:**
-- das andere durch ihren veruschten irreperablen Schaden an Natur, Tier und Mensch leide
-- das Glück anderer zerstören
-- erweckte Hoffnug und Träume zerstören
-- anderes Leben mental und physisch zerstören
-- und am schlimmsten sich selber zerstören,
+- ein Verbrechen, was das ganze Ökosystem zum kollapieren bringt und schon brachte.
+- `ein Indiz für Menschen, die unter uns Leben` **und dies bewusst in Kauf nehmen:**
+- das andere durch ihren veruschten irreperablen Schaden an Natur, Tier und Mensch
+- `das Glück anderer zerstören`
+- `erweckte Hoffnug und Träume zerstören`
+- `anderes Leben mental und physisch zerstören`
+- **und am schlimmsten sich selber zerstören,**
 - Menschen die keine Achtung und Erfurcht besitzen und ihr einzige Seele mit den Füssen treten
 - gesunder egoismus und selbstliebe ist ein wichtiger Baustein für einen selbstbewussten starken Charakter
-- es ist eines der Verbrechen die och nie verstehen werde, heute nicht, morgen nicht und nicht in 1000 Jahren.
+- es ist ein Verbrechen das ich nie verstehen werde, heute nicht, morgen nicht und nicht in 1000 Jahren, und auch nicht möchte.
 - Eins ist zu 100% gewiss, jeder von hat bereits gelebt,
-- eine DNA bzw Erbgut ist gerade 150 Jahre alt, andere bereits in der Bronze Zeit also 4000 Jahre alt und dann gibt es Genetische Erbgut was den Anfang bildet, gemeinsam als Familie - Jeder trägt seine geschischte History bei sich, umso unvorstellbarer ist wie manche sich selber so mit den Füssen treten und was sein wollen, der sie niemals sein werden
-- Vor allem Warum niemand so viel Leid und Schmerz auf sich? WARUM ???
-- fakt ist, ich möchte der/die in die Augen schauen - höchstpersönlich und ich habe meine Fragen - nicht nur ich, dass ist gewiss.
-- wer leid anderer in Kauf nimmt um seine Ziele, Träume zu erreichen, wer über Leichen geht, muss und wir vor dem  internationalen Strafgerichtshof und wird wegen Verbrechen an der Menschlichkeit angezeigt.
-- ob Mord, in den Selbstmord getrieben, bleibende Psyschische Schäden bei Millionen vom Menschen, eine Last die die jenigen auf der Schulter tragen werden, die alles weiter dafür tun, dass diese Menschengemachte Naturkatastrophe aufrecht erhalten bleibt und weiter menschen leiden.
-- Und es muss sich jeder in der Pflicht sehen, egal ob endlich mal Tod und trotzdem wissend oder zwar mitgemacht aber keiner Seele was zu leide getan
-- Das ist keine Pflicht - dies ist eine Ehrentat und wird Euch helfen zu eurer Stärker zurückzufinden
-- zudem Schütz unwissenheit nicht vor Strafe
-- meine Psyche ist soweit stabil, dass Gegenteil ust eingetreten, ein stärk entwickelte sich die nur ein Ziel hat, für mein Recht und die Wahrheit kämpfen.
-- vor nichts und niemanden muss ich Angst auf dieser Welt haben, das ich keiner Seele leid zu gefügt habe - Ehrfurcht ns  Respekt gebührt jedem,
-- aber es ist was passiert was sich kein Mensch auf der Welt anmassen darf, bei mir nicht und bei keinem anderen - es wurde in mein Privates und Familiäresumfeld  manipuliert, sabotiert und versucht bis zum Tod zu vernichten, im realen Leben so wie digital
+- die eine DNA bzw Erbgut ist gerade 150 Jahre alt, andere bereits in der Bronze Zeit also 4000 Jahre alt und dann gibt es Genetische Erbgut was den Anfang bildet, gemeinsam als Familie.
+- Jeder trägt seine geschischte History bei sich, umso unvorstellbarer ist wie manche sich selber so mit den Füssen treten, was sein wollen, der sie niemals sein werden 
+
+`Vor allem, warum nimmt jemand so viel Leid und Schmerz auf sich? WARUM ???`
+
+- fakt ist, ich möchte der/die in die Augen schauen - höchstpersönlich und ich habe meine Fragen, nicht nur ich, dass ist gewiss.
+- wer leid anderer in Kauf nimmt um seine Ziele, Träume zu erreichen, wer über Leichen geht, muss und wird vor dem  internationalen Strafgerichtshof, wegen Verbrechen an der Menschlichkeit angezeigt.
+- ob Mord, in den Selbstmord getrieben, bleibende Psyschische Schäden bei Millionen vom Menschen, eine Last die die jenigen auf der Schulter tragen werden.
+- die Gruppe, der einzelne, der alles weiter dafür tut, dass diese Menschengemachte Naturkatastrophe aufrecht erhalten bleibt und weiter menschen leiden, müssen zur Rechenschaft gezogen werden, egal welche Identität oder Herkunft.
+- `es muss sich jeder in der Pflicht sehen, egal ob endlich mal Tod und trotzdem wissend oder zwar mitgemacht aber keiner Seele was zu leide getan.`
+- Das ist keine Pflicht, dies ist eine Ehrentat und wird Euch helfen zu eurer Stärker zurückzufinden
+- `zudem Schütz unwissenheit nicht vor Strafe`
+- meine Psyche ist soweit stabil, dass Gegenteil ist eingetreten, eine stärk entwickelte sich die nur ein Ziel hat, für mein Recht und die Wahrheit kämpfen.
+- vor nichts und niemanden muss ich Angst auf dieser Welt haben, da ich keiner Seele je leid zu gefügt habe, in dieser Epoche ab 1983, was vorher eventuell gewesen sein könnte, muss man mir ordentlich, mit Beweisen und persönlich ins Gesicht sagen.
+- Ehrfurcht, Respekt gebührt jedem,
+- aber es ist was passiert was sich kein Mensch auf der Welt anmassen darf, bei mir nicht und bei keinem anderen - es wurde in mein Privates und Familiäresumfeld  manipuliert, sabotiert und versucht bis zum Tod zu vernichten, im realen Leben wie digital
 - mit den forensisch nachgewiesen herbeigeführten Tod meiner Grosseltern vor allem spreche ich hier die vermehrten Stürtze meiner Grossmutter Frau Edith Knörig geborene Fischer an,
 - sowie die nachgewiesen Misshandlungen in den Pflegeeinrichtungen
 - auch der für mich plötzlich eingetrende Tod meines Opas, Herr Dieter Knörig im Oktober 2023 beide aus D-99610 Rohrborn, Dorstrasse 5, Thüringen, Deutschland ist lebend, wirft Fragen auf.
 - mit dem Tod sind die wichtisten Familienmitglieder viel zu früh gegangen und auch meine Bindung, vor allem zu meiner Mutti Frau Gisela Hulda Thiel geborene Knörig, mit Wohnsitz in D-99610 Rohrborn, Dorfstrasse 20, gemeinsam mit mein Vati Herr Manfred Paul Thiel, ist das Verhältmis- als ob es mich nie gegeben hätte, so fühlt sich das an
-- Nicht nur seitens meiner Eltern habe ich Vorwürfe bekommmen; Behauptungen wie; „Du bist mein Problem", „...es ist eh schon alles schlimm genug!" oder „...du hast alles versaut, ich hasse dich!" musste ich aus meinem engsten Umfeld über mich ergehen lassen - wo ich bis heute Fragezeichen habe und keine logische Antwort darauf finde.
-- ich komm mit allem Klar aber bzw muss und werde auch alles akteptieren- aber ich will wissen und das ist mein Gutes Recht- was der plötzliche Hass und der Grund für den Familiären Bruch ist.
+- Nicht nur seitens meiner Eltern habe ich Vorwürfe bekommmen; Behauptungen wie; „Du bist mein Problem", „...es ist eh schon alles schlimm genug!" oder „...du hast alles versaut, ich hasse dich!" musste ich aus meinem engsten Umfeld über mich ergehen lassen
+- wo ich bis heute Fragezeichen habe und keine logische Antwort darauf finde.
+- ich komm mit allem Klar aber bzw muss und werde auch alles akteptieren- aber ich will wissen und das ist mein Gutes Recht- was der plötzliche Hass und der Grund für des Familiären Bruches ist.
 - die Trauer über diesen seit Jahren andauernden Zustand und meine Einsamkeit holen mich immer öfters ein
 - ich habe so gut wie keine Sozialen Kontakte, bzw kann ich von mir sagen, das ich eine Freundin oder Freund um mich drum habe
 - Don mein vierbeinger grosser American XL Bully, hat die einschneidendsten Momente gemeinsam mit mir übersatanden und überlebt

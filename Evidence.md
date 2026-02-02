@@ -1,6 +1,6 @@
 ## Die Forschung und Wissenschaft gefangen im Lügennetz der ungläubigen Matrix. 
 
-***die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, möchte ich in diesem Repository zeigen wer die wahren Verbrecher sind.***
+***die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, ich möchte ihnen hier verdeutlichen, wovor viele Angst haben es auszusprechen, aus Angst oder Scharm, das unerklärliche preiszugeben. Wenn sie 100% wissende sind und zweifel haben, dann sie Opfer von Brainwashing, Mindcontroll und man hat sie bewusst in ihrer Gefühls-und Gedankenwelt manipuliert. Ihr weiteres Schweigen, wird und das ist Gewiss, ihr eigner Untergang in ihrem Menschlichen dasein sein.*** `Lassen sie sich niemals für dumm oder als Täter hinstellen, vertrauen sie einmal in dieser eventuell letzten Epoche, nur auf sich und ihrer Seele, ihrem Verstand!`
 
 ---
 

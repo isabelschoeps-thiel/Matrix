@@ -1,6 +1,8 @@
-# Die Forschung und Wissenschaft gefangen im Lügennetz der ungläubigen Matrix. 
+## Die Forschung und Wissenschaft gefangen im Lügennetz der ungläubigen Matrix. 
 
 ***die Fakultät Harvard, Cambridge, University of Oxford und auch CERN steht im Mittelpunkt, für das grössten Verbrechen, der Menschheitsgeschichte. Durch Diebstahl von Forschungsmaterialien, durch Täter-Opfer-Umkehr auch Gasligthing genannt, möchte ich in diesem Repository zeigen wer die wahren Verbrecher sind.***
+
+---
 
 **Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 ., & Schöps geb. Thiel, I. (2026)**. Harvard Release and Research Funding 1.0 (Research_Funding_1.0). Zenodo. https://doi.org/10.5281/zenodo.18308281
 
@@ -367,7 +369,8 @@ Es ist nicht in Worte zu fassen, zu was  der Mensch nur aus Habgier und Neid in 
 Ein lebenlang wurde ich von der Familie angelogen, dann macht es auch sinn, warum kein Kontakt zu niemanden mehr besteht, ganz nach dem Motto, aus dem Auge aus dem Sinn. 
 
 Ich habe eigentlich nur noch meinen geliebten Vati und meine geliebte Tochter, der Rest der Familie, der angeblichen Freunde und der Rest der Community hat seinen innerlichen Frieden und seinen Weg gefunden wie man mit der eigenen Lügen am besten umgeht.
-![IMG_2888](https://github.com/user-attachments/assets/d4e4876b-8381-4f06-b78d-8362370198b6)
+
+![meine_tochter_jona_links_isabelschoepsthiel](https://github.com/user-attachments/assets/5a6c260d-dfe3-41b9-aa94-f6e0115780fe)
 
 Ein sehr ernüchterndes und fremdschämendes Ergebnis nach all den Jahren. Aber was hat mein Vati gesagt: `“Kümmere dich erstmal um dich.”` Das werde ich auch machen und ich werde das das zu ende bringen, ohne meine Familie, ohne Freunde. Denn seit fast vier Jahren, warte und hoffe ich auf eine Antwort von diesen. ***Bis heute warte ich vergebens !***
 
@@ -459,18 +462,7 @@ I am  not a Ghost, but
 **I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
 
 **Datum der Erstveröffentlichung, digitale Beweissicherung:** 
-Erstveröffentlichung 2004
-
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
-Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
-
-Mitteleuropäische Zeit, 2026-01-19, 11:03CEST 
-
-![IMG_0296](https://github.com/user-attachments/assets/016851d0-e052-4a54-b13a-9d9b8758fa0c)
-
-
-**IST - Isabel Schöps Thiel**
-
+Erstveröffentlichung 2004 **IST - Isabel Schöps Thiel**
 
 ## Archiv Notes
 **Bad Statement**
@@ -479,9 +471,6 @@ Mitteleuropäische Zeit, 2026-01-19, 11:03CEST
 - and returns an array of `[user, repos]` "tuples" (i.e., arrays),
   
 **# Please read my HELPME.md** `isabelschoeps-thiel` please read my `HELPME`
-
-<https://api.github.com/isabelschoeps-thiel/harvard>, and `repos` is a hash like <https://api.github.com/repos/harvard/harvard.github.io>.
-
 
 # Signatur und Urheberschaft
 **Signed-on-by:**
@@ -513,7 +502,8 @@ Entwicklerzertifikat, https://developercertificate.org`
 
 **Wichtiger-Vermerk:** Aufgrund das die `Immobilie Cyriakstrasse 30c, in Erfurt Deutschland` in der ich noch gemeldet bin zum verkauft wurde musste ich aus dieser ausziehen, und ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage nach dem 08.02.2026 gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir!`
 
-Hier meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft.
+**Meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft**.
+
 ![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
 **Zudem Verweisse ich auf das Buch** von `Herrn George Orwell, mit dem Titel 1984`,

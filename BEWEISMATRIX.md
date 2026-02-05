@@ -1,4 +1,4 @@
-## Hacker, Betrug, Identitätsverschleppung und der ONE-Coin, 
+## Beweismatrix, Identitätsverschleppung, in der ONE-Coin
 
 **Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Innovation**  
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
@@ -208,9 +208,6 @@ internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 **OrcID:** 0009-0006-8765-3267 SI-IST Isabel Schöps 
 
-**Aktueller Wohnort und Meldeanschrift:**
-Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
-
 **Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
 YWP-1-IST-SIA
 YWP-1-5-IST-SIA
@@ -234,9 +231,4 @@ Erstveröffentlichung 2004
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
 IBIS Hotel, Zimmer206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland 
 
-Mitteleuropäische Zeit, 2026-02-05, 22:22CEST 
-
-![IMG_0296](https://github.com/user-attachments/assets/016851d0-e052-4a54-b13a-9d9b8758fa0c)
-
-
-**IST - Isabel Schöps Thiel**
+Mitteleuropäische Zeit, 2026-02-05, 22:22CEST **IST - Isabel Schöps Thiel**

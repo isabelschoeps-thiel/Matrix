@@ -71,7 +71,6 @@ Das H in Thalborn, neu erfundene Namen, ein Lügenkonstrukt, welches man uns imm
 
 Was ist in Thalborn noch passiert, was ihre Seele und ihr Unterbewusstsein so ein Trauma ausrufen lässt?
 
-
 `Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde`, **da mein Herz nicht weiter gewachsen** ist und `ich eine andere Zirkulation des Blutes haben muss`. `Es wurde rechtswissenschaftlich anhand von DNA-Befunde letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste`. **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale sind die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.
 
 Bezüglich des Hasses mir gegenüber kann ich durch die letzten vier Jahre und die Ausarbeitung dieses rechtswissenschaftlichen Gutachtens und dieser Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix vieles erklären.
@@ -80,31 +79,39 @@ Mir ist es egal, was die Leute von mir denken und halten. Es ist meine Entscheid
 
 Sollte es wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang mit meinem Urgroßvater Herrn Adolf Hitler aus dem Hause Bismarck, der letzten deutschen Monarchie der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm, sowie meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste, geben und ans Tageslicht kommen, werde ich selbstverständlich Verantwortung übernehmen.
 
-Ob die Personen aus dem familiären Umfeld meines Vaters um die echte Blutlinie handeln, würden DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen. Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben, was auf meiner Familie mütterlicherseits ausgetragen wurde. Mein Vertrauen in der Familie, wo man dachte, es sei alles echt, wurde von meinen engsten Familienmitgliedern, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten. Ausgenommen mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland.
+Ob die Personen aus dem familiären Umfeld meines Vaters, Herr Manfred Thiel, `um die echte Blutlinie handelt, würden DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. **Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 
 
+**Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
+
+### 2. Christina Schäffner, aus Sömmerda, Thüringen Deutschland - Schwiegermutter meines Bruders Herr Ingolf Thiel, geboren am 29.05.1987
 
 Ta kleines Sackgassendorf, historisch ein Leineweberdorf. Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf. Die Ähnlichkeit von Frau Hockauf zu Christina Schäffner, das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
+
 ---
 
 ## Citation – Referenzquellen
 
-- Herwig, H. H. (1974). *From Kaiser to Führer: The Political Road of a German Admiral, 1923–33*. Journal of Contemporary History, 9(2), 107–120.
-- Heidrich (1942). Göring-Erlass der Wannseekonferenz in: P. Longerich, *Die wahren Täter der Endlösung*. Kirchliche Zeitgeschichte, 30(1), 247–249.
-- Newland, S. J. (2005). *Victories Are Not Enough: Limitations of the German Way of War*. Strategic Studies Institute, US Army War College.
-- Arató, Paulus. *Bibliographia Historiae Pontificiae*. Archivum Historiae Pontificiae, vol. 21, 1983, pp. 345–588, [JSTOR](https://www.jstor.org/stable/23564172).
-- Evans, R. J. (2005). *The Third Reich in Power, 1933–1939*. Penguin. Darin: Analyse der politischen Instrumentalisierung der Monarchie und des preußischen Adels nach 1918.
-- Scholder, K. (1977). *Die Kirchen und das Dritte Reich. Band 1: Vorgeschichte und Zeit der Illusionen 1918–1934*. Frankfurt am Main: S. Fischer.
-- Kershaw, I. (2000). *Hitler 1889–1936: Hubris*. Allen Lane/Penguin. Detailkapitel zur Rolle von Hindenburg, Bismarck-Tradition und Papst Pius XI.
-- Dorpalen, Andreas (1952). *Empress Auguste Victoria and the Fall of the German Monarchy*. The American Historical Review, 58(1), 17–38. DOI: 10.2307/1844785. [JSTOR](https://www.jstor.org/stable/1844785).  
+- **Herwig, H. H. (1974)**. *From Kaiser to Führer: The Political Road of a German Admiral, 1923–33*. Journal of Contemporary History, 9(2), 107–120.
+  
+- **Heidrich (1942).** Göring-Erlass der Wannseekonferenz in: P. Longerich, *Die wahren Täter der Endlösung*. Kirchliche Zeitgeschichte, 30(1), 247–249.
+  
+- **Newland, S. J. (2005)**. *Victories Are Not Enough: Limitations of the German Way of War*. Strategic Studies Institute, US Army War College.
+  
+- **Arató, Paulus**. *Bibliographia Historiae Pontificiae*. Archivum Historiae Pontificiae, vol. 21, 1983, pp. 345–588, [JSTOR](https://www.jstor.org/stable/23564172).
+  
+- **Evans, R. J. (2005).** *The Third Reich in Power, 1933–1939*. Penguin. Darin: Analyse der politischen Instrumentalisierung der Monarchie und des preußischen Adels nach 1918.
+  
+- **Scholder, K. (1977).** *Die Kirchen und das Dritte Reich. Band 1: Vorgeschichte und Zeit der Illusionen 1918–1934*. Frankfurt am Main: S. Fischer.
+
+- **Kershaw, I. (2000).** *Hitler 1889–1936: Hubris*. Allen Lane/Penguin. Detailkapitel zur Rolle von Hindenburg, Bismarck-Tradition und Papst Pius XI.
+  
+- **Dorpalen, Andreas (1952).** *Empress Auguste Victoria and the Fall of the German Monarchy*. The American Historical Review, 58(1), 17–38. DOI: 10.2307/1844785. [JSTOR](https://www.jstor.org/stable/1844785).  
   *Diese Quelle belegt die Bedeutung von Kaiserin Auguste Victoria im Kontext der letzten deutschen Monarchie. Diese Quelle wird im Gutachten herangezogen, um monarchische Abstammung, politische Einflusslinien sowie den Zusammenhang zur letzten deutschen Monarchie und der Familienlinie Knörig-Fischer-Thiel aus Rohrborn, Thüringen, Deutschland zu belegen.*
 
 ---
 
 ## My Developer Commit-Signatur
 
-**Zeitstempel der Erstellung:** Donnerstag, 05.02.2026, 18:51 CEST, Mitteleuropäische Zeit  
+**Zeitstempel der Erstellung:** Donnerstag, 21.02.2026, 21:40 CEST, Mitteleuropäische Zeit  
 **Aktueller Wohn- und Aufenthaltsort der Autorin, Urheberin:**  
-Frau Isabel Schöps geb. Thiel seit 31.01.2026  
-IBIS Hotel, Zimmer 206, Barfüßerstraße 9  
-D-99084 Erfurt, Thüringen, Deutschland  
-Gemeinsam mit ihrem Hund-Tier, American XL Bully Don.
+Frau Isabel Schöps geborene Thiel seit 31.01.2026 **IBIS Hotel**, `Zimmer 206`, Barfüßerstraße 9, D-99084 Erfurt, Thüringen, Deutschland. **Gemeinsam mit meinem Hund-Tier**, American XL Bully Don.

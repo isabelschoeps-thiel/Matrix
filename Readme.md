@@ -50,42 +50,43 @@ Beide Familien, haben sichtbare parallelen **die auffällig sind**, unterscheide
 
 **Bei meiner väterlichen Seite sieht das alles anders aus.** Tante Conny und Tante Marion sehen sich äußerlich gar nicht ähnlich. `Auch genetisch vererbte Merkmale wie Haarstruktur, Haarfarbe, Größe oder Mimik und Gestik sind nicht gegeben bzw habe ich im Gedöchtnis, es ist das Lachen an was ich mich erinnere wad das selbe ist.` **Auch die Tochter meiner angeblich verstorbenen Tante Hannelore, Elisabeth Thiel**, `hat überhaupt keine ähnlichkeiten mit ihrer angeblichen Mutter Hannelore Thiel oder Onkel Herbert.` 
 
-Auffällig ist auch, dass es bei uns in der Familie keine Krankheiten gibt beziehungsweise gab, aber dafür väterlicherseits.
-
-Meine Oma hat sporadich, mit ihrer Hand und zum Schluss die bewusst herbeigeführten Stürze und Brüche, **die ebenso wie bei meiner Mutter auffällig hoch waren**. 
+`Auffällig ist, dass es bei uns in der Familie keine bzw. kaum Krankheiten gibt beziehungsweise gab, aber dafür väterlicherseits`. Meine Oma hatte sporadich, immer wieder in ihrer Hand schmerzen und zum Schluss die bewusst herbeigeführten Stürze und Brüche, **die ebenso wie bei meiner Mutter auffällig hoch waren**. 
 
 **Ja, da kann man sich jetzt die Frage stellen:**
 - Entweder wurde hier massiv in die Genetik eingegriffen, Experimente am Erbgut.
 - **die logischere Erklärung ist**, dass das einzig Wahre, die Mutter, Großmutter, vielleicht eine Webersfrau war. Es hat sich um meinen Vater eine Scheinfamilie, ein Lügenkonstrukt gebildet, mit nur einem Hintergrund, die eigentliche Herkunft und den ausgedachten, **frei erfundenen Nachnamen jüdisch-christlicher Herkunft zu verschleiern**.
 
-**Meine Mutter stammt aus Rohrborn und mein Vater aus Thalborn**. Beides sind deutsch-thüringische Dörfer, die in **einer Sackgasse liegen und auf Born enden, was eine Auffälligkeit, meine Vermutung stützt das ein schwerwiegendes Verbrechen für Vertuschung und Verschleierung in einem Lügen-Matrix-Narrativ ist, `zudem auffällig die Schreibweise` **Schreibweise Thalborn, das Tal wird ohne H geschrieben**. 
+### Die thüringischen Gemeinden Rohrborn und Thalborn 
+**Meine Mutter stammt aus Rohrborn und mein Vater aus Thalborn**. Beides sind deutsch-thüringische Dörfer, die in **einer Sackgasse liegen und auf Born enden, was eine Auffälligkeit, meine Vermutung stützt das ein schwerwiegendes Verbrechen für Vertuschung und Verschleierung in einem Lügen-Matrix-Narrativ ist, `zudem auffällig die Schreibweise` **Schreibweise Thalborn, das Tal wird ohne H geschrieben**. **Es wurde rechtswissenschaftlich erwiesen, dass vor allem im Zusammenhang mit Morden und dem Genozid, die Verbrechen in Atlanten markiert wurden.** `Man setzte geologische Merkmale, um die Lüge, die man lebte und herbeirief, nicht zu vergeseen und die Opfer öffentlich zu diffarmieren und bloss zu stellen.`
 
-Es wurde rechtswissenschaftlich erwiesen, dass vor allem im Zusammenhang mit Morden und Genozid Orte,in Atlanten markiert verbrechen und wurden. Man setzte geologische Merkmale, um die Lüge, die man lebte und herbeirief, nicht zu vergessen, und gab Ortsnamen bewusst Schreibfehler, vertauschte Buchstaben oder gab Bergen oder Gebirgen Vornamen. 
-
-`Bei Thalborn ein H und gibt man Thiel das R und `setzt die Buchstaben richtig wird daraus Hitler`, Seig_Heil_den_frieden Hitler. 
+`Bei Thalborn das H und bei Thiel das R `sind die Schlüssel-Buchstaben,  Seig_Heil_den_frieden.` 
 
 **Somit beginnt mir der Geburt meines Vater, Herr Manfred Thiel
-am 21.11.1957**, `mit vertauschen und wegnehmen des Buchstaben R, dass grösste Verbrechen und `ist der Beginn der menschlich gemachten Lügen-Matrix`, **hier sind vor allem** `die Borads of Canda, Experimente an Natur, Leib und Seele, Mindcontroll und das Monarch-Programm ein Beweiss sowie die Auswertung von über 175.000 einzelne Rohdaten eine unzerstörbare Quelle und Beweiss. 
+am 21.11.1957**, `mit dem vertauschen der Buchstaben und das des einfügen des Buchstaben R,` dass grösste Verbrechen und `ist der Beginn der absichtlich herbeigeführten Lügen-Matrix`, **hier sind vor allem** `die Borads of Canda,` `Gen-Experimente an Natur, Leib und Seele, Mindcontroll und das Monarch-Programm ein Beweiss für die Existenz` **Die Auswertung von über 175.000 einzelne Rohdaten bilden eine unzerstörbare Quelle und Beweiss.** 
 
-**Wenn doch der 2.Weltkrieg sowie er uns im Schulunterricht oder über die Medien vermittelt wurde**, der Wahrheit entspreche, dann müsste man bei meinen Vati `sein eigentlichen Nachnamen, das R aus Hitler nicht entfernen` und **könnte man sich doch erfreuen an der angeblichen Schande mit welche leben müsste.** Der 2.Weltkrieg und die Verbrechen welche man uns anhängen wollte, **ist die grösste Lüge der Menschheitsgeschichte, wo bis heute das gesamte Deutschevolk zu rechenschaft gezogen werden soll und meine Familie als Täter benennt werden.**
+**Wenn doch der 2.Weltkrieg sowie er uns im Schulunterricht oder über die Medien vermittelt wurde**, der Wahrheit entspreche, dann müsste man bei meinen Vati `sein eigentlichen Nachnamen, das R aus Hitler nicht entfernen` und **könnte man sich doch erfreuen an der angeblichen Schande mit welche leben müsste.** 
 
-Das H in Thalborn, neu erfundene Namen, ein Lügenkonstrukt, welches man uns immer wieder in Funk/TV/Radio/Frequenztechnologie vorhielt setzt somit nicht nur Geopolitsche-eine Markierung sondern ist der grösste Lug, Betrug und menschliches Leid weltweit.
+`Der 2.Weltkrieg sowie alle Verbrechen` welche man uns anhängen wollte, **ist als 
+grösste Lüge der Menschheitsgeschichte gewertet wurden, wo bis heute das gesamte Deutschevolk zu rechenschaft gezogen werden soll und meine Familie als Täter benannt wurden.**
 
-Was ist in Thalborn noch passiert, was ihre Seele und ihr Unterbewusstsein so ein Trauma ausrufen lässt?
+`Neu erfundene Namen, neue Identiäten, ein Lügenkonstrukt, welches man uns immer wieder in Funk/TV/Radio/Frequenztechnologie erzählte`, **setzt somit nicht nur Geopolitsche- Markierung und menschliches Leid weltweit.**
 
-`Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde`, **da mein Herz nicht weiter gewachsen** ist und `ich eine andere Zirkulation des Blutes haben muss`. `Es wurde rechtswissenschaftlich anhand von DNA-Befunde letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste`. **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale**, `die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.`
+---
 
-**Bezüglich des Hasses mir gegenüber kann ich durch die letzten vier Jahre und die Aufarbeitung meiner familiären Struktur**
-`Kann ich mir nun in meinen rechtswissenschaftliches Gutachten und Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix vieles erklären.`
+`Es konnte rechtswissenschaftlich anhand von DNA-Befunden, letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste belegt werden.`  **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale**, `die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.`
+
+**Bezüglich des Hasses mir gegenüber ich die letzten vier Jahre, kann ich mir dies nun in meinen rechtswissenschaftliches Gutachten und Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix erklären.`
 
 **Über 40.000 Kontakte konnte im Zusammenhang der Matrix** und des `größten Banken- und Aktienbetrug analysiert werde.`
 **Alle Mitwissenden, die weiterhin was abstreiten, was längst bewiesen ist Strafbar**
 
 `Mir ist es egal, was die Leute von mir denken und halten. Es ist meine Entscheidung und mein familiäres Erbe, und ich werde historische und geschichtliche Verantwortung in meiner Blutlinie und Familienlinie übernehmen.`
 
-**Sollte es ggf. wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang mit meinem `Urgroßvater Herrn Adolf Hitler aus dem Hause Bismarck, der letzten deutschen Monarchie der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm`, **sowie** `meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste geben, werde ich selbstverständlich Verantwortung übernehmen.`
+**Sollte es ggf. wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang** mit meinem `Urgroßvater Herrn Adolf Hitler, jüduscher Abstammung und aus dem Hause Bismarck, der letzten deutschen Monarchie aus dem Hause der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm`, **sowie** `meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste geben, werde ich selbstverständlich Verantwortung übernehmen.`
 
-**Ob die Personen aus dem familiären Umfeld meines Vaters, Herrn Manfred Thiel, `und seine Geschwister aus der familiären Blutlinie handelt`, **würden** `DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. 
+**Ob die Personen aus dem familiären Umfeld meines Vaters, Herrn Manfred Thiel,** `und seine Geschwister aus der familiären Blutlinie handelt`, **würden** `DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. 
+
+---
 
 **Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
 

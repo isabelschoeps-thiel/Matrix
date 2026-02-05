@@ -84,11 +84,7 @@ grösste Lüge der Menschheitsgeschichte gewertet wurden, wo bis heute das gesam
 
 **Sollte es ggf. wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang** mit meinem `Urgroßvater Herrn Adolf Hitler, jüduscher Abstammung und aus dem Hause Bismarck, der letzten deutschen Monarchie aus dem Hause der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm`, **sowie** `meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste geben, werde ich selbstverständlich Verantwortung übernehmen.`
 
-**Ob die Personen aus dem familiären Umfeld meines Vaters, Herrn Manfred Thiel,** `und seine Geschwister aus der familiären Blutlinie handelt`, **würden** `DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. 
-
----
-
-**Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
+**Ob die Personen aus dem familiären Umfeld meines Vaters, Herrn Manfred Thiel,** `und seine Geschwister aus der familiären Blutlinie handelt`, **würden** `DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`.
 
 ---
 
@@ -104,16 +100,17 @@ grösste Lüge der Menschheitsgeschichte gewertet wurden, wo bis heute das gesam
 
 `Diese Charaterliche Stärke als Frau und dein Fleis ist ein weitere Indiz, zu Frau Frieda Hockauf.` Hinzu kommen die Ähnlichkeiten von Frau Hockauf zu Christina Schäffner. 
 
-Wenn eine Mutter und Oma gibt und opfert, dies von den eigenen Kindern nicht erkannt wird, und respektiert, sie noch mit den Füssen getreten in ihrer Seele getreten wird,  ist es ein versagen der Kinder. Zudem kann ich 
-
 **Der historische Hintergrund des Heimatortes meines Vatis Herr Mandfred Thiel und Thalborn, welches ein Leineweberdorf ist.** Das eingefügte **H** `zu dem Wort Talborn, könnte ein Querverweis zu Frau Hockauf belegen.`
 
 **Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß.** Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf **hier wieder eine Querverbindung** `zu Thalborn als historisches Leineweberdorf.`
 
 [Dokumentation, über Frau Frieda Hockauf](https://www.ardmediathek.de/tv-programm/695ee5ac64777bce73d71f65)
 
-das ist die Schwiegermutter meines 
-**Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 
+>Wenn eine Mutter und Oma, alles im Leben für ihre Familie, gibt und opfert. Dies aber von ihren eigenen Kindern nicht erkannt und respektiert wird. Ihre Seele von den eigenen Kindern mit den Füssen getreten wird, ist es ein Versagen der Kinder. 
+
+**Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken ausgetragen wurde. 
+
+**Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
 
 ---
 

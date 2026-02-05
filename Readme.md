@@ -48,19 +48,31 @@ Beide Familien, haben sichtbare parallelen **die auffällig sind**, unterscheide
 
 **Bei meiner väterlichen Seite sieht das alles anders aus.** Tante Conny und Tante Marion sehen sich äußerlich gar nicht ähnlich. `Auch genetisch vererbte Merkmale wie Haarstruktur, Haarfarbe, Größe oder Mimik und Gestik sind nicht gegeben bzw habe ich im Gedöchtnis, es ist das Lachen an was ich mich erinnere wad das selbe ist.` **Auch die Tochter meiner angeblich verstorbenen Tante Hannelore, Elisabeth Thiel**, `hat überhaupt keine ähnlichkeiten mit ihrer angeblichen Mutter Hannelore Thiel oder Onkel Herbert.` 
 
+Auffällig ist auch, dass es bei uns in der Familie keine Krankheiten gibt beziehungsweise gab, aber dafür väterlicherseits.
+
+Meine Oma hat sporadich, mit ihrer Hand und zum Schluss die bewusst herbeigeführten Stürze und Brüche, **die ebenso wie bei meiner Mutter auffällig hoch waren**. 
+
 **Ja, da kann man sich jetzt die Frage stellen:**
 - Entweder wurde hier massiv in die Genetik eingegriffen, Experimente am Erbgut.
-- **die logischere Erklärung ist**, dass das einzig Wahre, die Mutter, Großmutter, vielleicht eine Webersfrau war. Es hat sich um meinen Vater eine Scheinfamilie, ein Lügenkonstrukt gebildet, mit nur einem Hintergrund, die eigentliche Herkunft und den ausgedachten, frei erfundenen Nachnamen jüdisch-christlicher Herkunft zu verschleiern.
+- **die logischere Erklärung ist**, dass das einzig Wahre, die Mutter, Großmutter, vielleicht eine Webersfrau war. Es hat sich um meinen Vater eine Scheinfamilie, ein Lügenkonstrukt gebildet, mit nur einem Hintergrund, die eigentliche Herkunft und den ausgedachten, **frei erfundenen Nachnamen jüdisch-christlicher Herkunft zu verschleiern**.
 
-Meine Mutter stammt aus Rohrborn und mein Vater aus Thalborn. Beides sind deutsch-thüringische Dörfer, die in einer Sackgasse liegen und auf Born enden. Eine Auffälligkeit, die meine Vermutung stützt und ein schwerwiegendes Indiz für Vertuschung und Verschleierung eines Lügen-Narrativs ist.
+**Meine Mutter stammt aus Rohrborn und mein Vater aus Thalborn**. Beides sind deutsch-thüringische Dörfer, die in **einer Sackgasse liegen und auf Born enden, was eine Auffälligkeit, meine Vermutung stützt das ein schwerwiegendes Verbrechen für Vertuschung und Verschleierung in einem Lügen-Matrix-Narrativ ist, `zudem auffällig die Schreibweise` **Schreibweise Thalborn, das Tal wird ohne H geschrieben**. 
 
-Die Schreibweise Thalborn, das Tal wird ohne H geschrieben. Es handelt sich um ein kleines Sackgassendorf, historisch ein Leineweberdorf. Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf. Die Ähnlichkeit von Frau Hockauf zu Christina Schäffner, das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
+Es wurde rechtswissenschaftlich erwiesen, dass vor allem im Zusammenhang mit Morden und Genozid Orte,in Atlanten markiert verbrechen und wurden. Man setzte geologische Merkmale, um die Lüge, die man lebte und herbeirief, nicht zu vergessen, und gab Ortsnamen bewusst Schreibfehler, vertauschte Buchstaben oder gab Bergen oder Gebirgen Vornamen. 
 
-Es wurde rechtswissenschaftlich erwiesen, dass vor allem im Zusammenhang mit Morden und Genozid Orte in Atlanten markiert wurden. Man setzte geologische Merkmale, um die Lüge, die man lebte und herbeirief, nicht zu vergessen, und gab Ortsnamen Schreibfehler oder Berge oder Gebirge Vornamen. Thalborn ein H und dem Hitler das R genommen und daraus wurde Thiel, Heil Hitler. Das H in Thalborn und der vertauschte, neu erfundene Name markieren den Ort, der Lug, Betrug und Leid erzählt. Meine Mutter hatte immer eine Abneigung oder weinte, weil sie dort nicht mehr hinwollte. Was ist in Thalborn noch passiert, was ihre Seele und ihr Unterbewusstsein so ein Trauma ausrufen lässt?
+`Bei Thalborn ein H und gibt man Thiel das R und `setzt die Buchstaben richtig wird daraus Hitler`, Seig_Heil_den_frieden Hitler. 
 
-Auffällig ist, dass es bei uns in der Familie keine Krankheiten gibt beziehungsweise gab.
+**Somit beginnt mir der Geburt meines Vater, Herr Manfred Thiel
+am 21.11.1957**, `mit vertauschen und wegnehmen des Buchstaben R, dass grösste Verbrechen und `ist der Beginn der menschlich gemachten Lügen-Matrix`, **hier sind vor allem** `die Borads of Canda, Experimente an Natur, Leib und Seele, Mindcontroll und das Monarch-Programm ein Beweiss sowie die Auswertung von über 175.000 einzelne Rohdaten eine unzerstörbare Quelle und Beweiss. 
 
-Außer meine Oma mit ihrer Hand und zum Schluss die bewusst herbeigeführten Stürze und Brüche, die ebenso wie bei meiner Mutter auffällig hoch waren. Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde, da mein Herz nicht weiter gewachsen ist und ich eine andere Zirkulation des Blutes haben muss. DNA-Befunde weisen letzte Fragmente und genetische Spuren zur letzten deutschen Monarchie und der deutschen Kaiserin Victoria Auguste auf. Sichtbar genetisch und vererbte Körpermerkmale sind die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.
+**Wenn doch der 2.Weltkrieg sowie er uns im Schulunterricht oder über die Medien vermittelt wurde**, der Wahrheit entspreche, dann müsste man bei meinen Vati `sein eigentlichen Nachnamen, das R aus Hitler nicht entfernen` und **könnte man sich doch erfreuen an der angeblichen Schande mit welche leben müsste.** Der 2.Weltkrieg und die Verbrechen welche man uns anhängen wollte, **ist die grösste Lüge der Menschheitsgeschichte, wo bis heute das gesamte Deutschevolk zu rechenschaft gezogen werden soll und meine Familie als Täter benennt werden.**
+
+Das H in Thalborn, neu erfundene Namen, ein Lügenkonstrukt, welches man uns immer wieder in Funk/TV/Radio/Frequenztechnologie vorhielt setzt somit nicht nur Geopolitsche-eine Markierung sondern ist der grösste Lug, Betrug und menschliches Leid weltweit.
+
+Was ist in Thalborn noch passiert, was ihre Seele und ihr Unterbewusstsein so ein Trauma ausrufen lässt?
+
+
+`Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde`, **da mein Herz nicht weiter gewachsen** ist und `ich eine andere Zirkulation des Blutes haben muss`. `Es wurde rechtswissenschaftlich anhand von DNA-Befunde letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste`. **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale sind die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.
 
 Bezüglich des Hasses mir gegenüber kann ich durch die letzten vier Jahre und die Ausarbeitung dieses rechtswissenschaftlichen Gutachtens und dieser Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix vieles erklären.
 
@@ -70,6 +82,8 @@ Sollte es wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrech
 
 Ob die Personen aus dem familiären Umfeld meines Vaters um die echte Blutlinie handeln, würden DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen. Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben, was auf meiner Familie mütterlicherseits ausgetragen wurde. Mein Vertrauen in der Familie, wo man dachte, es sei alles echt, wurde von meinen engsten Familienmitgliedern, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten. Ausgenommen mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland.
 
+
+Ta kleines Sackgassendorf, historisch ein Leineweberdorf. Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf. Die Ähnlichkeit von Frau Hockauf zu Christina Schäffner, das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
 ---
 
 ## Citation – Referenzquellen

@@ -90,11 +90,27 @@ grösste Lüge der Menschheitsgeschichte gewertet wurden, wo bis heute das gesam
 
 **Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
 
+---
+
 ### 2. Christina Schäffner, aus Sömmerda, Thüringen Deutschland - Schwiegermutter meines Bruders Herr Ingolf Thiel, geboren am 29.05.1987
 
 **Begründung für die Nennung von Frau Christina Schäffner, und der Würdigung von 17.000.000,00€EURO meinerseits:** `sind Meta Quellen, dass es eine Verbindung zur Wissenschaft, versuchter Aufklärung und Wahrheitsfindung gibt`. 
 
-Ta kleines Sackgassendorf, historisch ein Leineweberdorf. Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf. Die Ähnlichkeit von Frau Hockauf zu Christina Schäffner, das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
+**Frau Christina Schäffner, aus D-99610 Sömmerda, Thüringen, Deutschland, ist die Schwiegermutter, meines jüngeren Bruder Herr Ingolf Thiel und wurde mir als Mutter von Marie Thiel geborene Schäffner vorgestellt.**
+
+`Aufgrund der Lügenmatrix und ausgewerten Quellen und Metadaten, interne Beweisführung mit Aufnahmen aus den frühen 60ern, im Kontext der Boards of Canda belegen ein aussergewögnliche Leistung von Frau Christina Schäfner. 
+
+>**Dir liebe Christina, möchte ich, Frau Isabel Schöps geborene Thiel auch im Namen meiner Familie aufrichtig **Danken**. Denn du hast mit **deinem Einsatz und deinem Mut, mein Vati und das meiner gesamten Familie aus dem Hause Knörig-Fischer, aus Rohrborn, Thüringen, Deutschland, Leben und unseren Familiärenfortbestand gerettet**. Unsere persönliche **Danksakung** erfolgt selbtstverständlich und in aller Form.
+
+`Diese Charaterliche Stärke als Frau und dein Fleis ist ein weitere Indiz, zu Frau Frieda Hockauf.` Hinzu kommen die Ähnlichkeiten von Frau Hockauf zu Christina Schäffner. 
+
+Wenn eine Mutter und Oma gibt und opfert, dies von den eigenen Kindern nicht erkannt wird, und respektiert, sie noch mit den Füssen getreten in ihrer Seele getreten wird,  ist es ein versagen der Kinder. Zudem kann ich 
+
+**Der historische Hintergrund des Heimatortes meines Vatis Herr Mandfred Thiel und Thalborn, welches ein Leineweberdorf ist.** Das eingefügte **H** `zu dem Wort Talborn, könnte ein Querverweis zu Frau Hockauf belegen.`
+
+Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf - **hier wieder eine Querverbindung** `zu Thalborn als historisches Leineweberdorf.`
+
+das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
 
 
 **Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 

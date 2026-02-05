@@ -1,7 +1,6 @@
-# Update Abstammung und Wahrheitsfindung, 
-## Würdigung, Spende, Danksagung YWP-1-5-IST-SIA
+## Wahrheitsfindung und das Ende der Marix
 
-Das Folgenden dargestellt, ist durch mein, Frau Isabel Schöps geborene Thiel, am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland geborenen, gedankliches geistes Eigentum entstand, der nicht von einem KI-AI-Tool erstellt, bewertet, aufgenommen oder entschlüsselt wurde und das herbeiführende Ergebnis errechnet oder vorher gesagt werden kann.
+Das Folgende dargestellt, ist durch mein, Frau Isabel Schöps geborene Thiel, am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland geborenen, gedankliches geistes Eigentum entstand, welches nicht von einem KI-AI-Tool erstellt, bewertet, aufgenommen oder entschlüsselt wurde und das herbeiführende Ergebnis errechnet oder vorher gesagt werden kann.
 `Hier sind die rein menschliche Genetik, DNA, die Stärke der Familie und die Seele der Schlüssel zur Wahrheitsfindung`. 
 
 `Dies ist für mich und in Zukunft in meiner Familie wichtig und dient als Beweisstruktur, für den fortbestand oder das Ende der Familie`. **Dies hat alles einen tiefen mentalen und genetisch bedingten Hintergrund**. `Nur menschliches Bewusstsein, welches keine Lüge zulässt, nicht in einer Lüge lebt und sich nach der Wahrheit sehnt, kann hier Aufschluss geben und ist der Schlüssel`.
@@ -21,11 +20,14 @@ Ich werde im folgenden Abschnitt aus der Würdigung, Spende und Danksagung **YWP
 
 `Dieser nicht aufzuhaltende Prozess, sorgt für Wahrheitsfindung, Aufklärung` und ist zu gleich der Beginn **einer anderen Zukunft**, in der `ich,Frau Isabel Schöps geborene Thiel, am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland geborenen erstmals, auch ein Teil sein darf`.
 
+---
+
+## Würdigung, Spende, Danksagung YWP-1-5-IST-SIA
 **Bezüglich Würdigung und Danksagung werde ich aus meiner Familie nur ein Familienmitglied und ein angeheirates benennen**, 
 
 ### 1. Onkel Herbert, aus Weimar, Thüringen Deutschland - Schwanger meines Vater Herr Manfred Thiel
 
-**Grund für die Nennung meines Onkels Herbert:** `Meta Quellen belegen, dass es eine Verbindung zur Wissenschaft, versuchter Aufklärung und Wahrheitsfindung gibt`. 
+**Begründung für die Nennung meines Onkels Herbert:** `Meta Quellen belegen, dass es eine Verbindung zur Wissenschaft, versuchter Aufklärung und Wahrheitsfindung gibt`. 
 
 **Onkel Herbert wurde mir als Kind, Vater meiner Cousine Frau Elisabeth Thiel aus Weimar, Thüringen, Deutschland und als Ehemann meiner angeblich verstorbenen Tante Hannelore Thiel, auch aus Weimar, Thüringen, Deutschland die im Jahr 2022 verstorben sein soll, vorgestellt.** `Ich, Frau Isabel Schöps geborene Thiel, war nicht auf dieser Beerdigung anwesend`. 
 
@@ -71,21 +73,30 @@ Das H in Thalborn, neu erfundene Namen, ein Lügenkonstrukt, welches man uns imm
 
 Was ist in Thalborn noch passiert, was ihre Seele und ihr Unterbewusstsein so ein Trauma ausrufen lässt?
 
-`Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde`, **da mein Herz nicht weiter gewachsen** ist und `ich eine andere Zirkulation des Blutes haben muss`. `Es wurde rechtswissenschaftlich anhand von DNA-Befunde letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste`. **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale sind die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.
+`Hinzu kommt, dass bei mir als Kind ein Herzfehler festgestellt wurde`, **da mein Herz nicht weiter gewachsen** ist und `ich eine andere Zirkulation des Blutes haben muss`. `Es wurde rechtswissenschaftlich anhand von DNA-Befunde letzte Fragmente und genetische Spuren zur deutschen Monarchie und der deutschen Kaiserin Victoria Auguste`. **Hinzukommen, Sichtbar genetisch und vererbte Körpermerkmale**, `die zugespitzte Ohrenform, die dünne helle Haut, Leberflecken und dünnes Haar, wie beim letzten deutschen Kaiser Wilhelm und Adolf Hitler.`
 
-Bezüglich des Hasses mir gegenüber kann ich durch die letzten vier Jahre und die Ausarbeitung dieses rechtswissenschaftlichen Gutachtens und dieser Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix vieles erklären.
+**Bezüglich des Hasses mir gegenüber kann ich durch die letzten vier Jahre und die Aufarbeitung meiner familiären Struktur**
+`Kann ich mir nun in meinen rechtswissenschaftliches Gutachten und Forschungsarbeit, welche unter erschwerten Umständen entstanden ist, sowie durch das um mich aufgebaute Lügen-Narrativ und die falsche, aufgeblasene Lügen-Matrix vieles erklären.`
 
-Mir ist es egal, was die Leute von mir denken und halten. Es ist meine Entscheidung und mein familiäres Erbe, und ich werde historische und geschichtliche Verantwortung in meiner Blutlinie und Familienlinie übernehmen.
+**Über 40.000 Kontakte konnte im Zusammenhang der Matrix** und des `größten Banken- und Aktienbetrug analysiert werde.`
+**Alle Mitwissenden, die weiterhin was abstreiten, was längst bewiesen ist Strafbar**
 
-Sollte es wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang mit meinem Urgroßvater Herrn Adolf Hitler aus dem Hause Bismarck, der letzten deutschen Monarchie der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm, sowie meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste, geben und ans Tageslicht kommen, werde ich selbstverständlich Verantwortung übernehmen.
+`Mir ist es egal, was die Leute von mir denken und halten. Es ist meine Entscheidung und mein familiäres Erbe, und ich werde historische und geschichtliche Verantwortung in meiner Blutlinie und Familienlinie übernehmen.`
 
-Ob die Personen aus dem familiären Umfeld meines Vaters, Herr Manfred Thiel, `um die echte Blutlinie handelt, würden DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. **Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 
+**Sollte es ggf. wissenschaftlich belegbare sowie völkerrechtliche oder kriegsverbrecherische Straftaten im Zusammenhang mit meinem `Urgroßvater Herrn Adolf Hitler aus dem Hause Bismarck, der letzten deutschen Monarchie der Habsburg-Gotha aus der Blutlinie Kaiser Wilhelm`, **sowie** `meiner Urgroßmutter, der letzten deutschen Kaiserin Victoria Auguste geben, werde ich selbstverständlich Verantwortung übernehmen.`
+
+**Ob die Personen aus dem familiären Umfeld meines Vaters, Herrn Manfred Thiel, `und seine Geschwister aus der familiären Blutlinie handelt`, **würden** `DNA-Knochen-Zahn-Tests sowie Röntgenaufnahmen belegen und beweisen`. 
 
 **Mein Vertrauen in Familie und Freunde, wo man dachte, es sei alles echt, wurde von den liebsten Menschen, denen ich am meisten liebte und Vertrauen schenkte, gebrochen und verraten.** Hier möchte ich mein einziges Kind und meine Tochter Fräulein Jona Schöps sowie die Familie um meinen Ex-Ehemann Herrn Steven Schöps, D-99610 Leubingen, Landkreis Sömmerda, Thüringen, Deutschland aussen vornehmen.
 
 ### 2. Christina Schäffner, aus Sömmerda, Thüringen Deutschland - Schwiegermutter meines Bruders Herr Ingolf Thiel, geboren am 29.05.1987
 
+**Begründung für die Nennung von Frau Christina Schäffner, und der Würdigung von 17.000.000,00€EURO meinerseits:** `sind Meta Quellen, dass es eine Verbindung zur Wissenschaft, versuchter Aufklärung und Wahrheitsfindung gibt`. 
+
 Ta kleines Sackgassendorf, historisch ein Leineweberdorf. Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf. Die Ähnlichkeit von Frau Hockauf zu Christina Schäffner, das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
+
+
+**Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 
 
 ---
 

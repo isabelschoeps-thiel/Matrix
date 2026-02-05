@@ -108,11 +108,11 @@ Wenn eine Mutter und Oma gibt und opfert, dies von den eigenen Kindern nicht erk
 
 **Der historische Hintergrund des Heimatortes meines Vatis Herr Mandfred Thiel und Thalborn, welches ein Leineweberdorf ist.** Das eingefügte **H** `zu dem Wort Talborn, könnte ein Querverweis zu Frau Hockauf belegen.`
 
-Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß. Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf - **hier wieder eine Querverbindung** `zu Thalborn als historisches Leineweberdorf.`
+**Frau Frieda Hockauf galt als Leitperson für Arbeit und Fleiß.** Frau Hockauf wuchs in einer Weberfamilie mit neun Geschwistern auf **hier wieder eine Querverbindung** `zu Thalborn als historisches Leineweberdorf.`
 
-das ist die Schwiegermutter meines Bruders, ist groß. Und nun kommen wir zur Rätsellösung.
+[Dokumentation, über Frau Frieda Hockauf](https://www.ardmediathek.de/tv-programm/695ee5ac64777bce73d71f65)
 
-
+das ist die Schwiegermutter meines 
 **Es muss ein Verbrechen gegen die Menschlichkeit in dieser Struktur stattgefunden haben**, was auf meiner Familie mütterlicherseits und Frau Christina Schäffner, Sömmerda, Thüringen, Deutschland, ihren Rücken  ausgetragen wurde. 
 
 ---

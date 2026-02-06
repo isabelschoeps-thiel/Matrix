@@ -1,5 +1,9 @@
 ## Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Lügennetz der der allgegenwertigen Matrix. 
 
+**Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi.org/10.5281](https://doi.org/10.5281/zenodo.17852789)
+
+---
+
 Aufgrund das ich in den letzten Monaten viel mit den führenden Universitäten zusamnengearbeitet habe, ist mir aufgefallen dass die **die Fakultäten Harvard, Cambridge, University of Oxford und auch CERN, betroffen von Ausgrenzung und Diebstahl ihrer Arbeiten ist. Zudem stehen diese im Mittelpunkt, für Verbrechen die sie nie begangen haben, durch Täter-Opfer-Umkehr und Gasligthing**. 
 
 **Ich möchte ihnen hier verdeutlichen,was längst wissenschaftlich belegt wurde und wovor die Wissenschaft Angst hat es auszusprechen. Aufgrund von Verspottung, Lächerlich machen etc.***

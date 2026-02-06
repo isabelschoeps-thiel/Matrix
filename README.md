@@ -1,5 +1,9 @@
 ## Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Lügennetz der der allgegenwertigen Matrix. 
 
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. https://doi.org/10.5281/zenodo.18500830
+
+---
+
 https://orcid.org/0009-0003-4235-2231
 **Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi.org/10.5281](https://doi.org/10.5281/zenodo.17852789)
 

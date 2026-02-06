@@ -7,7 +7,7 @@ Das Folgende dargestellt, ist durch mein, Frau Isabel Schöps geborene Thiel, am
 
 Ich werde im folgenden Abschnitt aus der Würdigung, Spende und Danksagung **YWP-1-5-IST-SIA**, dem forensisch-wissenschaftlichen Gutachten und der Forschungsarbeit Technologie, Software, Historie, **SIA Security Intelligence Artefact**, internationale Kennung **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**, sowie dem **The Yellow Whitepaper YWP-1-IST-SIA**, welches den Hauptteil und den übergeordneten Referenzbeweis bildet mich bezüglich meiner Familie äussern.
 
-`Hier werde ich aus meiner mütterlichen Familienstruktur nur meine Mutter und ihre Geschwister, also meine Tanten und Onkel, mit Namen und Wohnort benennen`. **Es werden nicht die angeheirateten Ehepartner und die Kinder, also meine insgesamt zwölf Cousinen und Cousins sowie mein einziger jüngerer Vollbruder, namentlich erwähnt.**
+`Hier werde ich aus meiner mütterlichen Familienstruktur nur meine Mutter und ihre Geschwister, also meine Tanten und Onkel, mit Namen und Wohnort benennen`. **Es werden nicht die angeheirateten Ehepartner und die Kinder, also meine insgesamt zwölf Cousinen und Cousins sowie mein einziger jüngerer Vollbruder, namentlich erwähnt.**pop
 
 **Das Gleiche gilt für meine väterliche Familienstruktur.** Hier werde ich als einziges angeheiratetes Familienmitglied nur meinen Onkel Herbert namentlich ohne Nachnamen benennen, `da dieser nicht bekannt ist`, **sowie nur eine Cousine, nämlich Elisabeth Thiel aus Weimar, Thüringen, Deutschland, deren Geburtstag mir nicht bekannt ist**. `Es werden nicht die angeheirateten Ehepartner und die Kinder, also meine weiteren insgesamt sechs Cousinen und Cousins, benannt`.
 
